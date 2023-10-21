@@ -1,0 +1,1213 @@
+[7.6922431  5.02135638 0.         0.        ]
+test bing 
+
+JSON Response:
+
+{'_type': 'SearchResponse',
+ 'entities': {'value': [{'bingId': '6a6253d5-3fa6-80bb-b069-6778cdfc3d8d',
+                         'contractualRules': [{'_type': 'ContractualRules/LicenseAttribution',
+                                               'license': {'name': 'CC-BY-SA',
+                                                           'url': 'http://creativecommons.org/licenses/by-sa/3.0/'},
+                                               'licenseNotice': 'Text under '
+                                                                'CC-BY-SA '
+                                                                'license',
+                                               'mustBeCloseToContent': True,
+                                               'targetPropertyName': 'description'},
+                                              {'_type': 'ContractualRules/LinkAttribution',
+                                               'mustBeCloseToContent': True,
+                                               'targetPropertyName': 'description',
+                                               'text': 'Wikipedia',
+                                               'url': 'http://en.wikipedia.org/wiki/Heart'}],
+                         'description': 'The heart is a muscular organ in most '
+                                        'animals. This organ pumps blood '
+                                        'through the blood vessels of the '
+                                        'circulatory system. The pumped blood '
+                                        'carries oxygen and nutrients to the '
+                                        'body, while carrying metabolic waste '
+                                        'such as carbon dioxide to the lungs. '
+                                        'In humans, the heart is approximately '
+                                        'the size of a closed fist and is '
+                                        'located between the lungs, in the '
+                                        'middle compartment of the chest.',
+                         'entityPresentationInfo': {'entityScenario': 'DominantEntity',
+                                                    'entityTypeHints': ['Generic']},
+                         'id': 'https://api.bing.microsoft.com/api/v7/#Entities.0',
+                         'name': 'Heart',
+                         'webSearchUrl': 'https://www.bing.com/entityexplore?q=Heart&filters=sid:%226a6253d5-3fa6-80bb-b069-6778cdfc3d8d%22&elv=AXXfrEiqqD9r3GuelwApulr0r6QZ2!owE1V6ngtQTuEJyVX*8j!YqWs7gYG07PZGAuxOC7TqcP!Avqh5odW8BjeQ9LGWJCFaeqvCqvoMaY0O'},
+                        {'bingId': 'ec514963-a147-332c-e522-359d50ae41b6',
+                         'contractualRules': [{'_type': 'ContractualRules/LicenseAttribution',
+                                               'license': {'name': 'CC-BY-SA',
+                                                           'url': 'http://creativecommons.org/licenses/by-sa/3.0/'},
+                                               'licenseNotice': 'Text under '
+                                                                'CC-BY-SA '
+                                                                'license',
+                                               'mustBeCloseToContent': True,
+                                               'targetPropertyName': 'description'},
+                                              {'_type': 'ContractualRules/LinkAttribution',
+                                               'mustBeCloseToContent': True,
+                                               'targetPropertyName': 'description',
+                                               'text': 'Wikipedia',
+                                               'url': 'http://en.wikipedia.org/wiki/Ventricle_(heart)'}],
+                         'description': 'A ventricle is one of two large '
+                                        'chambers toward the bottom of the '
+                                        'heart that collect and expel blood '
+                                        'towards the peripheral beds within '
+                                        'the body and lungs. The blood pumped '
+                                        'by a ventricle is supplied by an '
+                                        'atrium, an adjacent chamber in the '
+                                        'upper heart that is smaller than a '
+                                        'ventricle. Interventricular means '
+                                        'between the ventricles, while '
+                                        'intraventricular means within one '
+                                        'ventricle.',
+                         'entityPresentationInfo': {'entityScenario': 'DisambiguationItem',
+                                                    'entityTypeHints': ['Generic']},
+                         'id': 'https://api.bing.microsoft.com/api/v7/#Entities.1',
+                         'name': 'Ventricle',
+                         'webSearchUrl': 'https://www.bing.com/entityexplore?q=Ventricle&filters=sid:%22ec514963-a147-332c-e522-359d50ae41b6%22&elv=AXXfrEiqqD9r3GuelwApulr0r6QZ2!owE1V6ngtQTuEJyVX*8j!YqWs7gYG07PZGAuxOC7TqcP!Avqh5odW8BjeQ9LGWJCFaeqvCqvoMaY0O'},
+                        {'bingId': 'fe5ca019-80d4-f12a-baca-b176843efc5b',
+                         'contractualRules': [{'_type': 'ContractualRules/LicenseAttribution',
+                                               'license': {'name': 'CC-BY-SA',
+                                                           'url': 'http://creativecommons.org/licenses/by-sa/3.0/'},
+                                               'licenseNotice': 'Text under '
+                                                                'CC-BY-SA '
+                                                                'license',
+                                               'mustBeCloseToContent': True,
+                                               'targetPropertyName': 'description'},
+                                              {'_type': 'ContractualRules/LinkAttribution',
+                                               'mustBeCloseToContent': True,
+                                               'targetPropertyName': 'description',
+                                               'text': 'Wikipedia',
+                                               'url': 'http://en.wikipedia.org/wiki/Sinoatrial_node'}],
+                         'description': 'The sinoatrial node is an oval shaped '
+                                        'region of special cardiac muscle in '
+                                        'the upper back wall of the right '
+                                        'atrium made up of cells known as '
+                                        'pacemaker cells. The sinus node is '
+                                        'approximately fifteen mm long, three '
+                                        'mm wide, and one mm thick, located '
+                                        'directly below and to the side of the '
+                                        'superior vena cava.',
+                         'entityPresentationInfo': {'entityScenario': 'DisambiguationItem',
+                                                    'entityTypeHints': ['Generic']},
+                         'id': 'https://api.bing.microsoft.com/api/v7/#Entities.2',
+                         'name': 'Sinoatrial node',
+                         'webSearchUrl': 'https://www.bing.com/entityexplore?q=Sinoatrial+node&filters=sid:%22fe5ca019-80d4-f12a-baca-b176843efc5b%22&elv=AXXfrEiqqD9r3GuelwApulr0r6QZ2!owE1V6ngtQTuEJyVX*8j!YqWs7gYG07PZGAuxOC7TqcP!Avqh5odW8BjeQ9LGWJCFaeqvCqvoMaY0O'},
+                        {'bingId': '4ca273ec-14c6-68a1-d0a9-83aa595a8b4a',
+                         'contractualRules': [{'_type': 'ContractualRules/LicenseAttribution',
+                                               'license': {'name': 'CC-BY-SA',
+                                                           'url': 'http://creativecommons.org/licenses/by-sa/3.0/'},
+                                               'licenseNotice': 'Text under '
+                                                                'CC-BY-SA '
+                                                                'license',
+                                               'mustBeCloseToContent': True,
+                                               'targetPropertyName': 'description'},
+                                              {'_type': 'ContractualRules/LinkAttribution',
+                                               'mustBeCloseToContent': True,
+                                               'targetPropertyName': 'description',
+                                               'text': 'Wikipedia',
+                                               'url': 'http://en.wikipedia.org/wiki/Right_coronary_artery'}],
+                         'description': 'In the blood supply of the heart, the '
+                                        'right coronary artery is an artery '
+                                        'originating above the right cusp of '
+                                        'the aortic valve, at the right aortic '
+                                        'sinus in the heart. It travels down '
+                                        'the right coronary sulcus, towards '
+                                        'the crux of the heart. It gives off '
+                                        'many branches, including the '
+                                        'sinoatrial nodal artery, right '
+                                        'marginal artery, posterior '
+                                        'interventricular artery, conus '
+                                        'artery, and atrioventricular nodal '
+                                        'branch. It contributes the right side '
+                                        'of the heart, and parts of the '
+                                        'interventricular septum.',
+                         'entityPresentationInfo': {'entityScenario': 'DisambiguationItem',
+                                                    'entityTypeHints': ['Generic']},
+                         'id': 'https://api.bing.microsoft.com/api/v7/#Entities.3',
+                         'name': 'Right coronary artery',
+                         'webSearchUrl': 'https://www.bing.com/entityexplore?q=Right+coronary+artery&filters=sid:%224ca273ec-14c6-68a1-d0a9-83aa595a8b4a%22&elv=AXXfrEiqqD9r3GuelwApulr0r6QZ2!owE1V6ngtQTuEJyVX*8j!YqWs7gYG07PZGAuxOC7TqcP!Avqh5odW8BjeQ9LGWJCFaeqvCqvoMaY0O'}]},
+ 'queryContext': {'originalQuery': 'Which name is given to the heart chamber '
+                                   'which receives blood?'},
+ 'rankingResponse': {'mainline': {'items': [{'answerType': 'WebPages',
+                                             'resultIndex': 0,
+                                             'value': {'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.0'}},
+                                            {'answerType': 'WebPages',
+                                             'resultIndex': 1,
+                                             'value': {'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.1'}},
+                                            {'answerType': 'WebPages',
+                                             'resultIndex': 2,
+                                             'value': {'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.2'}},
+                                            {'answerType': 'WebPages',
+                                             'resultIndex': 3,
+                                             'value': {'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.3'}},
+                                            {'answerType': 'WebPages',
+                                             'resultIndex': 4,
+                                             'value': {'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.4'}},
+                                            {'answerType': 'WebPages',
+                                             'resultIndex': 5,
+                                             'value': {'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.5'}},
+                                            {'answerType': 'WebPages',
+                                             'resultIndex': 6,
+                                             'value': {'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.6'}},
+                                            {'answerType': 'WebPages',
+                                             'resultIndex': 7,
+                                             'value': {'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.7'}},
+                                            {'answerType': 'WebPages',
+                                             'resultIndex': 8,
+                                             'value': {'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.8'}},
+                                            {'answerType': 'RelatedSearches',
+                                             'value': {'id': 'https://api.bing.microsoft.com/api/v7/#RelatedSearches'}}]},
+                     'sidebar': {'items': [{'answerType': 'Entities',
+                                            'resultIndex': 0,
+                                            'value': {'id': 'https://api.bing.microsoft.com/api/v7/#Entities.0'}},
+                                           {'answerType': 'Entities',
+                                            'resultIndex': 1,
+                                            'value': {'id': 'https://api.bing.microsoft.com/api/v7/#Entities.1'}},
+                                           {'answerType': 'Entities',
+                                            'resultIndex': 2,
+                                            'value': {'id': 'https://api.bing.microsoft.com/api/v7/#Entities.2'}},
+                                           {'answerType': 'Entities',
+                                            'resultIndex': 3,
+                                            'value': {'id': 'https://api.bing.microsoft.com/api/v7/#Entities.3'}}]}},
+ 'relatedSearches': {'id': 'https://api.bing.microsoft.com/api/v7/#RelatedSearches',
+                     'value': [{'displayText': 'how your heart pumps blood',
+                                'text': 'how your heart pumps blood',
+                                'webSearchUrl': 'https://www.bing.com/search?q=how+your+heart+pumps+blood'},
+                               {'displayText': 'the four chambers of the heart',
+                                'text': 'the four chambers of the heart',
+                                'webSearchUrl': 'https://www.bing.com/search?q=the+four+chambers+of+the+heart'},
+                               {'displayText': 'normal heart pump rate',
+                                'text': 'normal heart pump rate',
+                                'webSearchUrl': 'https://www.bing.com/search?q=normal+heart+pump+rate'},
+                               {'displayText': 'heart not pumping to capacity',
+                                'text': 'heart not pumping to capacity',
+                                'webSearchUrl': 'https://www.bing.com/search?q=heart+not+pumping+to+capacity'},
+                               {'displayText': 'heart not pumping blood '
+                                               'properly',
+                                'text': 'heart not pumping blood properly',
+                                'webSearchUrl': 'https://www.bing.com/search?q=heart+not+pumping+blood+properly'},
+                               {'displayText': 'what are the chambers of the '
+                                               'heart',
+                                'text': 'what are the chambers of the heart',
+                                'webSearchUrl': 'https://www.bing.com/search?q=what+are+the+chambers+of+the+heart'},
+                               {'displayText': 'lower heart chamber problems',
+                                'text': 'lower heart chamber problems',
+                                'webSearchUrl': 'https://www.bing.com/search?q=lower+heart+chamber+problems'},
+                               {'displayText': 'pumping chambers of the heart',
+                                'text': 'pumping chambers of the heart',
+                                'webSearchUrl': 'https://www.bing.com/search?q=pumping+chambers+of+the+heart'}]},
+ 'webPages': {'totalEstimatedMatches': 29900000,
+              'value': [{'dateLastCrawled': '2023-04-13T09:19:00.0000000Z',
+                         'displayUrl': 'https://my.clevelandclinic.org/health/body/23074',
+                         'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.0',
+                         'isFamilyFriendly': True,
+                         'isNavigational': True,
+                         'language': 'en',
+                         'name': 'Chambers of the Heart - Cleveland Clinic',
+                         'snippet': 'There, the blood receives oxygen and '
+                                    'flows to your left atrium. Your mitral '
+                                    'valve (you might also see it called your '
+                                    '“bicuspid valve”) provides passage from '
+                                    'your left atrium to your left ventricle. '
+                                    'Your aortic valve opens and shuts to move '
+                                    'blood from your left ventricle to your '
+                                    'aorta. From there, the blood goes back '
+                                    'out to your body.',
+                         'url': 'https://my.clevelandclinic.org/health/body/23074-heart-chambers'},
+                        {'dateLastCrawled': '2023-04-13T11:26:00.0000000Z',
+                         'displayUrl': 'https://my.clevelandclinic.org/health/articles/17060',
+                         'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.1',
+                         'isFamilyFriendly': True,
+                         'isNavigational': False,
+                         'language': 'en',
+                         'name': 'Blood Flow Through the Heart: Pathways and '
+                                 'Circulation - Cleveland Clinic',
+                         'snippet': 'Atria are your two upper heart chambers. '
+                                    'You have a left atrium and a right '
+                                    'atrium. Ventricles are your two lower '
+                                    'heart chambers. You have a left ventricle '
+                                    'and a right ventricle. Between the top '
+                                    'and bottom chambers, you have heart '
+                                    'valves. Heart valves open and close to '
+                                    'allow for proper blood flow.',
+                         'url': 'https://my.clevelandclinic.org/health/articles/17060-how-does-the-blood-flow-through-your-heart'},
+                        {'dateLastCrawled': '2023-04-12T18:02:00.0000000Z',
+                         'displayUrl': 'https://www.verywellhealth.com/anatomy-of-the-heart-5097180',
+                         'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.2',
+                         'isFamilyFriendly': True,
+                         'isNavigational': False,
+                         'language': 'en',
+                         'name': 'The Anatomy of the Heart - Verywell Health',
+                         'snippet': 'The right atrium: Receives oxygen-poor '
+                                    'blood from the body, then pumps it to the '
+                                    'right ventricle. Right ventricle: Pumps '
+                                    'the deoxygenated blood to the lungs to '
+                                    'receive oxygen. The left atrium: Receives '
+                                    'the oxygenated blood from the lungs (via '
+                                    'the pulmonary vein) and pumps it to the '
+                                    'left ventricle. Left ventricle: The '
+                                    'largest and most powerful of all the '
+                                    'heart’s chambers pumps the oxygen-rich '
+                                    '...',
+                         'thumbnailUrl': 'https://www.bing.com/th?id=OIP.DlQTc2HTuG5sROg9WSAieQHaF7&w=80&h=80&c=1&pid=5.1',
+                         'url': 'https://www.verywellhealth.com/anatomy-of-the-heart-5097180'},
+                        {'dateLastCrawled': '2023-04-09T01:29:00.0000000Z',
+                         'displayUrl': 'https://socratic.org/questions/which-chambers-are-the-receiving-chambers-of-the-heart',
+                         'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.3',
+                         'isFamilyFriendly': True,
+                         'isNavigational': False,
+                         'language': 'en',
+                         'name': 'Which chambers are the receiving chambers of '
+                                 'the heart?',
+                         'snippet': 'The right atrium receives blood from the '
+                                    'superior and inferior vena-cava. And the '
+                                    'left atrium receives blood from the lungs '
+                                    'through pulmonary veins. So, these two '
+                                    'are called the receiving chambers of the '
+                                    'heart. Answer link',
+                         'url': 'https://socratic.org/questions/which-chambers-are-the-receiving-chambers-of-the-heart'},
+                        {'dateLastCrawled': '2023-04-11T23:38:00.0000000Z',
+                         'displayUrl': 'https://quizlet.com/100183153/the-heart-flash-cards',
+                         'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.4',
+                         'isFamilyFriendly': True,
+                         'isNavigational': False,
+                         'language': 'en',
+                         'name': 'THE HEART Flashcards | Quizlet',
+                         'snippet': 'The two heart chambers which receive '
+                                    'arriving blood are: atria Blood vessels '
+                                    'which carry blood to the heart are: '
+                                    'veins, superior vena cava, pulmonary the '
+                                    'pulmonary arteries carry oxygenated blood '
+                                    'false All veins carry dark CO2 rich blood '
+                                    'FALSE Which veins carry oxygenated blood? '
+                                    'all veins entering the left atrium left '
+                                    'pulmonary veins',
+                         'url': 'https://quizlet.com/100183153/the-heart-flash-cards/'},
+                        {'dateLastCrawled': '2023-04-11T01:34:00.0000000Z',
+                         'displayUrl': 'https://quizlet.com/606697168/nasm-7th-ed-chapter-6-the-cardiovascular-endocrine-and...',
+                         'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.5',
+                         'isFamilyFriendly': True,
+                         'isNavigational': False,
+                         'language': 'en',
+                         'name': 'NASM 7th ed, Chapter 6: The Cardiovascular, '
+                                 'Endocrine, and ... - Quizlet',
+                         'snippet': 'Which heart chamber receives oxygenated '
+                                    'blood and pumps it to the body? Left '
+                                    'ventricle What would be considered a '
+                                    'normal resting heart rate for a healthy '
+                                    'sedentary person? 80 beats per minute '
+                                    'What is cardiac output? The volume of '
+                                    'blood pumped by the heart per minute What '
+                                    'is stroke volume?',
+                         'url': 'https://quizlet.com/606697168/nasm-7th-ed-chapter-6-the-cardiovascular-endocrine-and-digestive-systems-flash-cards/'},
+                        {'dateLastCrawled': '2023-04-12T16:02:00.0000000Z',
+                         'displayUrl': 'https://byjus.com/question-answer/given-alongside-is-a-diagram-of-the-human-heart...',
+                         'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.6',
+                         'isFamilyFriendly': True,
+                         'isNavigational': False,
+                         'language': 'en',
+                         'name': '(a) Which type of blood is carried by the '
+                                 "blood vessel marked 2 - BYJU'S",
+                         'snippet': '1. Name the vessels which carry blood to '
+                                    'the heart. 2. Name the vessels which '
+                                    'carry blood away from the heart. 3. Name '
+                                    'the blood vessel that brings oxygenated '
+                                    'blood to the human heart. 4. Which '
+                                    'chamber of the human heart receives '
+                                    'deoxygenated blood? 5. Describe how '
+                                    'deoxygenated blood from this chamber is '
+                                    'sent to all parts of the body.',
+                         'url': 'https://byjus.com/question-answer/given-alongside-is-a-diagram-of-the-human-heart-showing-its-internal-structure-label-the-3/'},
+                        {'dateLastCrawled': '2023-04-12T02:34:00.0000000Z',
+                         'displayUrl': 'https://www.verywellhealth.com/the-hearts-chambers-and-valves-1745389',
+                         'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.7',
+                         'isFamilyFriendly': True,
+                         'isNavigational': False,
+                         'language': 'en',
+                         'name': "The Heart's Chambers and Valves - Verywell "
+                                 'Health',
+                         'snippet': 'The two ventricles (right and left) are '
+                                    'muscular chambers capable of propelling '
+                                    'the blood out of the heart. The right '
+                                    'ventricle pumps blood to the lungs, and '
+                                    'the left ventricle pumps blood to all '
+                                    'other organs. The two atria (right and '
+                                    'left) accept the blood returning to the '
+                                    'heart (from the body’s tissues and from '
+                                    'the lungs, respectively).',
+                         'url': 'https://www.verywellhealth.com/the-hearts-chambers-and-valves-1745389'},
+                        {'dateLastCrawled': '2023-04-13T10:21:00.0000000Z',
+                         'displayUrl': 'https://courses.lumenlearning.com/suny-ap2/chapter/heart-anatomy',
+                         'id': 'https://api.bing.microsoft.com/api/v7/#WebPages.8',
+                         'isFamilyFriendly': True,
+                         'isNavigational': False,
+                         'language': 'en',
+                         'name': 'Heart Anatomy | Anatomy and Physiology II - '
+                                 'Lumen Learning',
+                         'snippet': 'Each of the upper chambers, the right '
+                                    'atrium (plural = atria) and the left '
+                                    'atrium, acts as a receiving chamber and '
+                                    'contracts to push blood into the lower '
+                                    'chambers, the right ventricle and the '
+                                    'left ventricle. The ventricles serve as '
+                                    'the primary pumping chambers of the '
+                                    'heart, propelling blood to the lungs or '
+                                    'to the rest of the body.',
+                         'url': 'https://courses.lumenlearning.com/suny-ap2/chapter/heart-anatomy/'}],
+              'webSearchUrl': 'https://www.bing.com/search?q=Which+name+is+given+to+the+heart+chamber+which+receives+blood%3f'}}
+STEP IN:  https://my.clevelandclinic.org/health/body/23074-heart-chambers
+======================
+
+<!DOCTYPE html>
+
+<html dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link as="style" href="//fonts.googleapis.com/css2?family=Roboto+Condensed&amp;family=Roboto:wght@400;500;700;900&amp;display=swap" onload="this.rel='stylesheet'" rel="preload"/>
+<link as="script" href="https://cdn.static.zdbb.net/js/Dnl1wmWs8xCCpvWNCt9Egf.min.js" rel="preload"/>
+<script async="true" src="https://cdn.static.zdbb.net/js/Dnl1wmWs8xCCpvWNCt9Egf.min.js" type="text/javascript"></script>
+<script async="" src="https://cdn.trustedcareaccess.com/libs/js/aim-cchl.js"></script>
+<link href="/assets/styles/styles.css" rel="stylesheet"/>
+<link href="/assets/imgs/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<title>Chambers of the Heart</title>
+<script>
+                var dataLayer = window.dataLayer = window.dataLayer || [];
+                dataLayer.push({
+                    'attributes': {
+                        'primaryLocationId': '',
+                'physicianId': '',
+                'instituteId': '279',
+                'zone': '/4213/cchl/cardio/general'
+                    }
+                });
+            </script>
+<script async="" src="https://www.googleoptimize.com/optimize.js?id=GTM-TX83RBN"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-718476-2"></script>
+<script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag() {
+                    dataLayer.push(arguments);
+                }
+                gtag('js', new Date());
+                gtag('config', 'UA-718476-2', { 'anonymize_ip': true });
+                gtag('config', 'G-HWJ092SPKP');
+            </script>
+<script>
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+    	new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.defer = true; j.src =
+    '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-3M4W');</script>
+<meta content="The heart has four chambers called the right atrium, left atrium, right ventricle, and left ventricle. Your heart chambers manage your hearbeat and blood flow.  " name="description">
+<meta content="Chambers of the Heart" property="og:title">
+<meta content="https://my.clevelandclinic.org/-/scassets/images/org/health/articles/23074-heart-chambers" property="og:image"/>
+<meta content="https://my.clevelandclinic.org/-/scassets/images/org/health/articles/23074-heart-chambers" property="twitter:image"/>
+<meta content="summary" property="twitter:card"/>
+<link href="https://my.clevelandclinic.org/health/body/23074-heart-chambers" rel="canonical">
+<meta content="https://my.clevelandclinic.org/health/body/23074-heart-chambers" property="og:url"/>
+<meta content="website" property="og:type"/>
+<meta content="Cleveland Clinic" property="og:site_name"/>
+<meta content="@ClevelandClinic" property="twitter:site"/>
+<meta content="@ClevelandClinic" property="twitter:creator"/>
+<link href="/assets/imgs/touch-icon-iphone.png" rel="apple-touch-icon"/>
+<link href="/assets/imgs/touch-icon-iphone-retina.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/assets/imgs/touch-icon-ipad.png" rel="apple-touch-icon" sizes="152x152"/>
+<link href="/assets/imgs/touch-icon-ipad-retina.png" rel="apple-touch-icon" sizes="167x167"/>
+<link href="/assets/imgs/touch-icon-iphone.png" rel="icon" sizes="256x256" type="image/png">
+<script type="application/ld+json">
+            {
+            "@context": "http://schema.org",
+            "@type": "MedicalWebPage",
+                "about": {
+                    "@type": "AnatomicalSystem"
+                    },
+            "mainContentOfPage": {
+            "@type":"WebPageElement",
+            "cssSelector":".main-content"
+            },
+            "audience": "http://schema.org/Patient"
+                ,"primaryImageOfPage": "https://my.clevelandclinic.org/-/scassets/images/org/health/articles/23074-heart-chambers"
+            }
+        </script>
+</link></link></meta></meta></link></head>
+<body class="health">
+<noscript>
+<iframe height="0" sandbox="" security="restricted" src="//www.googletagmanager.com/ns.html?id=GTM-3M4W" style="display: none; visibility: hidden" width="0"></iframe>
+</noscript>
+<noscript><img alt="" height="1" src="//zdbb.net/l/Dnl1wmWs8xCCpvWNCt9Egf/" width="1"/></noscript>
+<section class="notification-banner js-notification-banner">
+<header class="notification-banner__header">
+<span class="notification-banner__icon">
+<img alt="alert icon" height="60" src="/-/scassets/images/org/icons/icon-alert-white.svg?h=60&amp;la=en&amp;w=60&amp;hash=FC60FFC412B86909F753256F727A361DE2B2E135" width="60"/>
+</span>
+<span class="notification-banner__title">
+Important Updates + Notice of Vendor Data Event
+</span>
+<div class="notification-banner__action">
+<button class="notification-banner__action-icon js-notification-banner__action-icon--minimize hide">
+<svg aria-label="Minimize" data-name="Minimize Icon" focusable="false" id="notification-banner__minimize-icon" viewbox="0 0 48.26 24.74" xmlns="http://www.w3.org/2000/svg"><defs><style>.cls-1 {fill: #fff;}</style></defs><path class="cls-1" d="M48.26,20.47a4.12,4.12,0,0,1-1,2.7,4.29,4.29,0,0,1-6,.6l-17.2-14L7,23.77a4.26,4.26,0,1,1-5.4-6.6L21.36,1a4.23,4.23,0,0,1,5.4,0l19.9,16.2A4.36,4.36,0,0,1,48.26,20.47Z" transform="translate(0 0)"></path></svg>
+</button>
+<button class="notification-banner__action-icon js-notification-banner__action-icon--maximize">
+<svg aria-label="Maximize" data-name="Maximize Icon" focusable="false" id="notification-banner__maximize-icon" viewbox="0 0 48.27 24.7" xmlns="http://www.w3.org/2000/svg"><defs><style>.cls-1 {fill: #fff;}</style></defs><path class="cls-1" d="M1.82,6.71a4.25,4.25,0,0,1,6.94-3.3L26,17.4l17.14-14A4.26,4.26,0,1,1,48.52,10L28.69,26.19a4.26,4.26,0,0,1-5.38,0L3.39,10A4.23,4.23,0,0,1,1.82,6.71Z" transform="translate(-1.82 -2.46)"></path></svg>
+</button>
+</div>
+</header>
+<main class="notification-banner__main js-notification-banner__main hide">
+<p><strong>Coming to a Cleveland Clinic location?</strong><br/><a href="/locations/construction-alerts#hillcrest">Hillcrest Cancer Center check-in changes</a><br/><a href="/locations/construction-alerts#cole-eye">Cole Eye entrance closing</a><br/><a href="/landing/preparing-for-coronavirus">Visitation, mask requirements and COVID-19 information</a></p>
+<p><strong>Notice of Intelligent Business Solutions data event</strong><br/><a href="https://thesolutions.com/notice-of-data-event/" target="_blank">Learn more</a></p>
+</main>
+</section>
+<header class="header js-site-header" id="site-header">
+<nav class="nav--utility js-nav--utility">
+<ul>
+<li>
+<a class="nav--utility__link nav--utility__link--phone" href="tel:800.223.2273">
+800.223.2273
+</a>
+</li>
+<li>
+<a class="nav--utility__link" disablewebedit="True" href="/about/history">100 Years of Cleveland Clinic</a>
+</li>
+<li>
+<a class="nav--utility__link" disablewebedit="True" href="/online-services/mychart" title="MyChart">MyChart</a>
+</li>
+<li>
+<a class="nav--utility__link" disablewebedit="True" href="/help" title="Need help?">Need help?</a>
+</li>
+<li>
+<a class="nav--utility__link" disablewebedit="True" href="/giving">Giving</a>
+</li>
+<li>
+<a class="nav--utility__link" disablewebedit="True" href="https://jobs.clevelandclinic.org/" target="_blank">Careers</a>
+</li>
+<li>
+<a aria-controls="search-box" aria-expanded="false" aria-label="Search" class="button--small button--search" disablewebedit="True" href="/search">Search</a>
+</li>
+</ul>
+</nav>
+<span class="header__logo">
+<a disablewebedit="True" href="/"><img alt="Cleveland Clinic logo" disablewebedit="True" height="48" src="/-/scassets/images/org/logo/logo-ccf.svg?h=48&amp;la=en&amp;w=300&amp;hash=F5231F16526C9ED33D180771275ED4B7E42C2018" width="300"/></a>
+</span>
+<div class="nav--primary__menu js-nav--primary__menu clearfix">
+<a aria-label="menu" class="nav--primary__menu_toggle js-nav--primary__menu_toggle" href="#">
+<div class="hamburger-primary js-hamburger-primary">
+<span class="hamburger-primary__line"></span>
+<span class="hamburger-primary__line"></span>
+<span class="hamburger-primary__line"></span>
+<span class="hamburger-primary__line"></span>
+</div>
+</a>
+<a aria-controls="search-box" aria-expanded="false" aria-label="Search" class="nav--primary__search_toggle button--search-dark-gray" href="/search">Search</a>
+<div class="underlay js-underlay"></div>
+<div class="nav--primary__wrapper js-nav--primary__wrapper">
+<div class="nav--primary__wrapper-inner">
+<div class="triangle-up"></div>
+<div class="nav--primary__header">
+Cleveland Clinic Menu
+</div>
+<nav>
+<ul class="nav--primary">
+<li class="nav--primary__link">
+<a class="nav--primary__link" disablewebedit="True" href="/">ClevelandClinic.org</a>
+</li>
+<li class="nav--primary__link">
+<a class="nav--primary__link" disablewebedit="True" href="/staff">Find a Doctor</a>
+</li>
+<li class="nav--primary__link">
+<a class="nav--primary__link" disablewebedit="True" href="/locations">Locations &amp; Directions</a>
+</li>
+<li class="nav--primary__link">
+<a class="nav--primary__link" disablewebedit="True" href="/patients">Patients &amp; Visitors</a>
+</li>
+<li class="nav--primary__link">
+<a class="nav--primary__link" disablewebedit="True" href="/health">Health Library</a>
+</li>
+<li class="nav--primary__link">
+<a class="nav--primary__link" disablewebedit="True" href="/departments">Institutes &amp; Departments</a>
+</li>
+<li class="nav--primary__link">
+<a class="nav--primary__link" disablewebedit="True" href="/patients/information/access">Appointments</a>
+</li>
+</ul>
+</nav>
+<div class="nav--primary__buttons clearfix">
+<a class="button--small" disablewebedit="True" href="/online-services/mychart" title="MyChart">MyChart</a><a class="button--small" disablewebedit="True" href="/help" title="Need help?">Need help?</a> </div>
+</div>
+<div class="nav--primary__extra shade">
+Call for Additional Assistance
+<a href="tel:800.223.2273">800.223.2273</a>
+</div>
+</div>
+</div>
+<nav class="nav--secondary js-nav--secondary">
+<ul>
+<li class="nav--secondary__link--primary"><a class="nav--secondary__link" disablewebedit="True" href="/">ClevelandClinic.org</a></li>
+<li>
+<a class="nav--secondary__link" disablewebedit="True" href="/staff">Find a Doctor</a>
+</li>
+<li>
+<a class="nav--secondary__link" disablewebedit="True" href="/locations">Locations &amp; Directions</a>
+</li>
+<li>
+<a class="nav--secondary__link" disablewebedit="True" href="/patients">Patients &amp; Visitors</a>
+</li>
+<li>
+<a class="nav--secondary__link" disablewebedit="True" href="/health">Health Library</a>
+</li>
+<li>
+<a class="nav--secondary__link" disablewebedit="True" href="/departments">Institutes &amp; Departments</a>
+</li>
+<li>
+<a class="nav--secondary__link" disablewebedit="True" href="/patients/information/access">Appointments</a>
+</li>
+</ul>
+</nav>
+</header>
+<div class="page-content">
+<section class="hero-content">
+<div class="breadcrumb-ribbon theme-light-gray-pattern">
+<div class="container">
+<nav class="breadcrumb breadcrumb__sticky-hidden">
+<a class="breadcrumb__link icon-home" href="/">
+<span class="element-invisible">Home</span>
+</a>
+/
+<a class="breadcrumb__link" href="/health">
+Health Library
+</a>
+/
+<a class="breadcrumb__link" href="/health/body">
+Body Systems &amp; Organs
+</a>
+</nav>
+</div>
+</div>
+<div class="js-ad__leaderboard ad__leaderboard">
+<div class="container">
+<div class="ad__wrapper">
+<div class="ad-type--leaderboard ad-context--all" id="leaderboard_728x90">
+</div>
+</div>
+</div>
+</div>
+<div class="container content-pad-half">
+<div class="l-66-33--1">
+<h1 class="hero-content__title lede">
+Heart Chambers
+</h1>
+<div class="hero-content__subtitle">Your heart chambers are four hollow spaces within your heart. Your upper chambers are called your right atrium and left atrium. Your lower chambers are called your right ventricle and left ventricle. Your chambers work together to manage your heartbeat. They also send blood into your lungs to gain oxygen before recirculating throughout your body. </div>
+</div>
+<div class="l-66-33--2 health-article__header" id="js-contact-us-area">
+<ul class="contact-box">
+<li class="contact-box__phone">Appointments <a href="tel:8006597822 ">800.659.7822</a></li>
+<li><a class="button--strong button--full button--arrow" href="/departments/heart/appointments-locations">Appointments &amp; Locations</a></li>
+<li><a class="button--secondary button--full button--arrow hero-call-to-action__sticky-hidden" href="/departments/heart/appointments-locations#call">Talk to a Heart Nurse</a></li>
+<li><a class="button--secondary button--full button--arrow hero-call-to-action__sticky-hidden" href="https://my.clevelandclinic.org/webappointment">Request an Appointment</a></li>
+</ul>
+</div>
+</div>
+</section>
+<article class="content content-panel health-article js-health-article">
+<div class="health-article__body">
+<div class="container content-pad">
+<div class="l-66-33--1 main-content js-main-content">
+<nav class="article-nav js-article-nav">
+<ul class="no-bullets">
+<li class="article-nav__li"><a class="article-nav__link" href="/health/body/23074-heart-chambers">Overview</a></li>
+<li class="article-nav__li"><a class="article-nav__link" href="#function">Function</a></li>
+<li class="article-nav__li"><a class="article-nav__link" href="#anatomy">Anatomy</a></li>
+<li class="article-nav__li"><a class="article-nav__link" href="#conditions-and-disorders">Conditions and Disorders</a></li>
+<li class="article-nav__li"><a class="article-nav__link" href="#care">Care</a></li>
+</ul>
+</nav>
+<section class="article-nav-wrap js-article-nav-wrap">
+<a class="article-nav-header js-article-nav-header" href="#">
+<span class="js-nav-icon section-icon section-icon--overview"></span>
+<span class="article-nav-header__title js-article-nav-header__title">Heart Chambers</span>
+<span class="js-icon-toggle icon-kebab"></span>
+</a>
+<nav class="article-nav--fixed js-article-nav--fixed">
+<ul class="no-bullets">
+<li class="article-nav__li"><a class="article-nav__link js-article-nav__link" href="#overview">Overview</a></li>
+<li class="article-nav__li"><a class="article-nav__link js-article-nav__link" href="#function">Function</a></li>
+<li class="article-nav__li"><a class="article-nav__link js-article-nav__link" href="#anatomy">Anatomy</a></li>
+<li class="article-nav__li"><a class="article-nav__link js-article-nav__link" href="#conditions-and-disorders">Conditions and Disorders</a></li>
+<li class="article-nav__li"><a class="article-nav__link js-article-nav__link" href="#care">Care</a></li>
+<li class="article-nav__li-to-top">
+<a class="article-nav__link js-article-nav__link" href="#site-header">Back To Top </a>
+<span class="icon-arrow-up"></span>
+</li>
+</ul>
+</nav>
+</section>
+<div class="js-health-article__content">
+<div class="js-section js-section--overview">
+<h2 class="js-health-article__section-title" id="overview">
+<span class="js-section-icon section-icon section-icon--overview"></span>
+Overview
+</h2>
+<figure class="img-container featured-media">
+<img alt="Illustration of the four heart chambers. The right chambers contain oxygen-poor blood, and the left chambers contain oxygen-rich blood." src="https://my.clevelandclinic.org/-/scassets/images/org/health/articles/23074-heart-chambers"/>
+<figcaption class="media-caption">Your heart chambers work together to pump oxygen-poor blood to your lungs and oxygen-rich blood to your entire body.</figcaption>
+</figure>
+<h3 id="what-are-the-heart-chambers-">What are the heart chambers?</h3>
+<p>Your heart chambers are four hollow spaces within your <a href="https://my.clevelandclinic.org/health/body/21704-heart" target="_blank">heart</a>. There are two atria (upper chambers) called your right atrium and left atrium. In addition, there are two ventricles (lower chambers) called your right ventricle and left ventricle. Each chamber plays an important role in your heart’s functioning.</p>
+</div>
+<div class="js-section js-section--function">
+<h2 class="js-health-article__section-title" id="function">
+<span class="js-section-icon section-icon section-icon--function"></span>
+Function
+</h2>
+<h3 id="what-do-the-heart-chambers-do-">What do the heart chambers do?</h3>
+<p>Your heart chambers manage your <a href="https://my.clevelandclinic.org/health/articles/17064-heart-beat" target="_blank">heartbeat</a> and <a href="https://my.clevelandclinic.org/health/articles/17059-how-does-blood-flow-through-your-body" target="_blank">blood flow throughout your body</a>. We all know what our heartbeat feels like even if usually we don’t notice it. When we’re scared or excited, it’s probably more apparent.</p>
+<p>But with each beat, a complex process occurs inside your heart chambers. Your chambers keep your blood moving throughout your veins and arteries. They also make sure your blood receives the oxygen it needs to support your organs.</p>
+<h3 id="what-is-the-function-of-each-heart-chamber-">What is the function of each heart chamber?</h3>
+<p>You can think of your heart as one big team. The chambers work with each other and other parts of your heart — like your <a href="https://my.clevelandclinic.org/health/articles/17067-heart-valves" target="_blank">valves</a> and arteries — to keep your heart pumping. But even the best team is only as strong as its players. Each player brings unique skills to support a shared goal. Your heart’s chambers are the MVPs of the team. They do vital work that allows your heart to refresh and recirculate blood throughout your body every minute of every day.</p>
+<h4 id="right-atrium">Right atrium</h4>
+<p>Your right atrium kicks off the action by taking in all the oxygen-poor (deoxygenated) blood from your body. Blood enters through two large veins called your superior vena cava and your inferior vena cava. Your right atrium takes this blood and passes it on to the next player, your right ventricle.</p>
+<h4 id="right-ventricle">Right ventricle</h4>
+<p>Blood from your right atrium passes through your <a href="https://my.clevelandclinic.org/health/body/21851-tricuspid-valve" target="_blank">tricuspid valve</a> and into your right ventricle. Your right ventricle quickly goes into action by forcefully pumping this blood through your pulmonary valve into your <a href="https://my.clevelandclinic.org/health/articles/21486-pulmonary-arterie" target="_blank">pulmonary arteries</a> and out to your <a href="https://my.clevelandclinic.org/health/articles/8960-lungs-how-they-work" target="_blank">lungs</a>. In your lungs, your blood receives the oxygen it needs to nourish the rest of your body. Then, replenished and ready to continue its journey, the blood travels through your pulmonary veins back to your left atrium.</p>
+<h4 id="left-atrium">Left atrium</h4>
+<p>Once in your left atrium, the oxygen-rich (oxygenated) blood is almost ready to travel around your body. You can think of both atria (the plural form of “atrium”) as reservoirs. While your right atrium holds oxygen-poor blood, your left atrium holds oxygen-rich blood. Your left atrium then sends this blood through your mitral valve and into your left ventricle.</p>
+<h4 id="left-ventricle">Left ventricle</h4>
+<p>This is the last stop within the four chambers of your heart. Your left ventricle actively pumps the blood through your aortic valve so it can travel throughout your body. Incredibly, this process repeats with every heartbeat. So, you can think of your left ventricle as the final player that scores the winning basket or decisive goal. But there’s only a second to rest before the game begins all over again.</p>
+</div>
+<div class="js-section js-section--anatomy">
+<h2 class="js-health-article__section-title" id="anatomy">
+<span class="js-section-icon section-icon section-icon--anatomy"></span>
+Anatomy
+</h2>
+<h3 id="where-are-the-heart-chambers-located-">Where are the heart chambers located?</h3>
+<p>Your heart is located under your ribcage just left of your breastbone and between your lungs. The chambers within your heart are arranged in a particular way to allow blood to flow throughout your body. To remember that your atria are the “upper chambers,” you can think of them as “above” your ventricles. Both atria and above begin with “a.”</p>
+<p>While we often talk about the chambers as “upper” or “lower,” you’ll also hear “right” and “left” used to describe each chamber location. That’s because your heart acts as two pumps — a right pump and a left pump — to keep the blood moving. Teamwork, again, is key. Your right atrium and right ventricle work as a team. Likewise, your left atrium and left ventricle are also a team. These chamber pairs work with all the other parts of your heart to keep your blood flowing efficiently.</p>
+<h3 id="what-are-the-heart-chambers-made-of-">What are the heart chambers made of?</h3>
+<p>Your heart chambers are hollow fibrous shells covered in muscle fibers. Your chambers’ walls are made of muscles that allow your heart to contract and form a heartbeat. The right and left sides of your heart are separated by a wall of tissue called your septum.</p>
+<h3 id="what-is-the-structure-of-the-heart-chambers-">What is the structure of the heart chambers?</h3>
+<p>We can’t fully understand the structure of our heart chambers without also learning about the valves. We can think of the valves as doors that open and close to allow blood to move from chamber to chamber. They also let blood into and out of your heart. The four heart chambers and four valves work together to separate the oxygen-rich blood from the oxygen-poor blood. When healthy, the structure of your chambers and valves allows blood to flow in the right direction. The normal cycle of blood flow moves like this: body - heart - lungs - heart - body.</p>
+<p>The chambers and valves perform a delicate dance to keep this cycle going. They are structured in the following way:</p>
+<ul>
+<li>Blood flows from your body into your right atrium. Your tricuspid valve is the door that allows blood to flow from your right atrium to your right ventricle.</li>
+<li>Your pulmonary valve connects your right ventricle to your pulmonary artery so that the blood can enter your lungs. There, the blood receives oxygen and flows to your left atrium.</li>
+<li>Your mitral valve (you might also see it called your “bicuspid valve”) provides passage from your left atrium to your left ventricle.</li>
+<li>Your aortic valve opens and shuts to move blood from your left ventricle to your <a href="https://my.clevelandclinic.org/health/articles/17058-aorta-anatomy" target="_blank">aorta</a>. From there, the blood goes back out to your body.</li>
+</ul>
+<p>Together, your chambers and valves repeat this cycle to create each heartbeat.</p>
+</div>
+<div class="js-section js-section--conditions-and-disorders">
+<h2 class="js-health-article__section-title" id="conditions-and-disorders">
+<span class="js-section-icon section-icon section-icon--conditions-and-disorders"></span>
+Conditions and Disorders
+</h2>
+<h3 id="what-conditions-and-disorders-are-related-to-the-heart-chambers-">What conditions and disorders are related to the heart chambers?</h3>
+<p>Sometimes, your heart’s teamwork gets disrupted. Some disruptions begin before we’re born and cause <a href="https://my.clevelandclinic.org/health/diseases/21674-congenital-heart-disease" target="_blank">congenital heart disease</a>. Other problems arise throughout our lives, especially as we get older. Because your chambers are so important to your heart’s structure, many heart conditions and disorders involve them. The list below reviews some problems that we might face.</p>
+<h4 id="arrhythmias">Arrhythmias</h4>
+<p>An <a href="https://my.clevelandclinic.org/health/diseases/16749-arrhythmia" target="_blank">arrhythmia</a> is an irregular or abnormal heartbeat caused by a problem with your heart’s electrical system. While there are many different types of arrhythmias, it’s helpful to know the two that directly relate to your heart chambers.</p>
+<ul>
+<li><strong>Supraventricular arrhythmias</strong>: These arrhythmias begin in your atria (“supra” means above, so here, the problem happens above your ventricles). The most common type is <a href="https://my.clevelandclinic.org/health/diseases/16765-atrial-fibrillation-afib" target="_blank">atrial fibrillation</a>, also known as Afib. This condition causes your atria to contract irregularly or quiver. As a result, your atria can’t effectively move blood to your ventricles. You might not have any symptoms of Afib. If you have symptoms, you might notice strange feelings in your chest like a flip-flop sensation, skipped beats or hard banging. You may also feel nauseous, light-headed and weak and have trouble breathing. Without treatment, Afib doubles the risk of heart-related death. People with Afib are five times more likely to have a stroke. This is a condition that’s more serious than most people realize.</li>
+<li><strong>Ventricular arrhythmias</strong>: These arrhythmias begin in your ventricles. Sometimes they’re harmless. For example, you might feel <a href="https://my.clevelandclinic.org/health/diseases/17381-premature-ventricular-contractions" target="_blank">premature ventricular contractions (PVCs)</a> if you’re stressed or have been drinking a lot of coffee. Other arrhythmias are much more serious. <a href="https://my.clevelandclinic.org/health/diseases/21878-ventricular-fibrillation" target="_blank">Ventricular fibrillation (Vfib)</a> is the most serious arrhythmia and can lead to <a href="https://my.clevelandclinic.org/health/diseases/17522-sudden-cardiac-death-sudden-cardiac-arrest" target="_blank">sudden cardiac death</a>. Vfib happens when your heart doesn’t receive enough blood. This improper blood flow can occur from several causes like a heart attack, <a href="https://my.clevelandclinic.org/health/diseases/16841-cardiomyopathy" target="_blank">cardiomyopathy</a> or drug toxicity. Vfib is a life-threatening medical emergency that needs immediate help. If you notice someone isn’t responding or not breathing normally, call 911 right away and, if able, give <a href="https://my.clevelandclinic.org/health/articles/17680-cardiopulmonary-resuscitation-cpr" target="_blank">CPR</a>.</li>
+</ul>
+<h4 id="heart-valve-disease">Heart valve disease</h4>
+<p>Sometimes, a valve becomes damaged or diseased and can’t work properly. While some people are born with valve issues, this problem is more common in older adults. Below are some examples of valve diseases that can affect your heart chambers.</p>
+<ul>
+<li><strong>Aortic stenosis</strong>: Any of your valves can become diseased, but your aortic valve is most often the one affected. Aortic valve disease causes 61% of all valve disease deaths. And aortic stenosis is a big culprit. “Stenosis” means something is getting narrow. Aortic stenosis happens when your aortic valve opening narrows and blood can’t easily pass from your left ventricle to your aorta. This narrowing might also impact the pressure in your left atrium. This problem affects more than 20% of Americans over age 65. Sometimes the narrowing can begin after age 60, but symptoms won’t show up until age 70 or 80. Symptoms include fatigue, shortness of breath, chest pain, rapid fluttering heartbeat, dizziness and swollen ankles or feet.</li>
+<li><strong>Tricuspid regurgitation</strong>: Your tricuspid valve is the little door that lets blood flow from your right atrium down to your right ventricle. If your valve doesn’t close tightly, some blood can flow in the wrong <a href="https://my.clevelandclinic.org/health/diseases/21627-tricuspid-valve-regurgitation" target="_blank">direction</a> — from your ventricle back up into your atrium. This is called tricuspid regurgitation. It’s usually caused by an enlarged right ventricle. Conditions like <a href="https://my.clevelandclinic.org/health/diseases/8709-chronic-obstructive-pulmonary-disease-copd" target="_blank">COPD</a> or other heart problems can make the right ventricle grow in size. If you have mild tricuspid regurgitation, you may not have symptoms. More serious forms can lead to <a href="https://my.clevelandclinic.org/health/diseases/17069-heart-failure-understanding-heart-failure" target="_blank">heart failure</a> symptoms like active pulsing in the neck veins, fatigue, and foot and ankle swelling.</li>
+</ul>
+<h4 id="endocarditis">Endocarditis</h4>
+<p>If bacteria enter your bloodstream and move to your heart, you can get a serious infection called <a href="https://my.clevelandclinic.org/health/diseases/16957-endocarditis" target="_blank">endocarditis</a>. In endocarditis, the inside lining of your heart chambers and valves gets inflamed. Symptoms include fever, chills and sweating, especially at night. You may also notice fatigue, weakness, and muscle and joint pain. It’s important to seek medical attention right away and get antibiotics before the infection gets worse. Untreated endocarditis can cause permanent heart damage or death.</p>
+<h4 id="single-ventricle-defects">Single ventricle defects</h4>
+<p>These are rare congenital disorders that can affect one of your ventricles. Your ventricle may be smaller, underdeveloped or missing a valve. Here are a few examples.</p>
+<ul>
+<li><a href="https://my.clevelandclinic.org/health/diseases/12214-hypoplastic-left-heart-syndrome-hlhs" target="_blank">Hypoplastic left heart syndrome (HLHS)</a>: The left side of your heart is underdeveloped.</li>
+<li><a href="https://my.clevelandclinic.org/health/diseases/14779-pulmonary-atresia" target="_blank">Pulmonary atresia</a>: Your pulmonary valve is abnormally developed or blocked.</li>
+<li><a href="https://my.clevelandclinic.org/health/diseases/14789-tricuspid-atresia" target="_blank">Tricuspid atresia</a>: Your tricuspid valve isn’t properly formed. So, blood flow is blocked from your right atrium to your right ventricle. This makes your right ventricle small and underdeveloped.</li>
+</ul>
+<h3 id="how-do-i-know-if-my-heart-chambers-are-healthy-">How do I know if my heart chambers are healthy?</h3>
+<p>Problems with your heart chambers or any part of your heart are often easy to miss. You might not have symptoms or notice anything is wrong until the problem has gotten worse. Heart disease is called a “silent killer” because it can sneak up on you. That’s why it’s important to go for physical exams and talk with your healthcare provider about your family history. If your parents or grandparents had heart problems, there’s a greater chance you might develop some too.</p>
+<p>There are many ways to check the health of your heart. First, your provider will listen to your <a href="https://my.clevelandclinic.org/health/diagnostics/17402-pulse--heart-rate" target="_blank">heartbeat</a> with a stethoscope. This is a common way to find <a href="https://my.clevelandclinic.org/health/diseases/17083-heart-murmur" target="_blank">murmurs</a> and valve problems. Then, if you have a family history of heart disease or have symptoms, your doctor may perform an <a href="https://my.clevelandclinic.org/health/diagnostics/16953-electrocardiogram-ekg" target="_blank">electrocardiogram (EKG)</a>. Your doctor might also want you to get an <a href="https://my.clevelandclinic.org/health/diagnostics/16947-echocardiogram" target="_blank">echocardiogram (echo)</a> to check your heart’s function and look for problems like valve disease.</p>
+<h3 id="what-treatments-can-make-my-heart-chambers-healthier-">What treatments can make my heart chambers healthier?</h3>
+<p>Depending on what’s wrong, your healthcare provider may first recommend some simple lifestyle changes. For example, consuming less caffeine can reduce some arrhythmia symptoms. In other cases, you may need medication. For instance, if you have atrial fibrillation, you may need medications to control your heart rate or manage underlying <a href="https://my.clevelandclinic.org/health/diseases/8541-thyroid-disease" target="_blank">thyroid disease</a>. If you have heart failure, you might need to take <a href="https://my.clevelandclinic.org/health/treatments/21826-diuretics" target="_blank">diuretics</a> to get rid of extra fluid from your body. Some problems, such as valve disease, may require surgery.</p>
+<p>Your provider will know what’s best for your specific situation. That’s why it’s so important to visit your provider regularly and discuss any new symptoms that come up.</p>
+</div>
+<div class="js-section js-section--care">
+<h2 class="js-health-article__section-title" id="care">
+<span class="js-section-icon section-icon section-icon--care"></span>
+Care
+</h2>
+<h3 id="what-lifestyle-changes-can-i-make-to-keep-my-heart-chambers-healthy-">What lifestyle changes can I make to keep my heart chambers healthy?</h3>
+<p>Many simple changes can keep your entire heart healthy. For example, following a <a href="https://my.clevelandclinic.org/health/articles/17079-heart-healthy-diet" target="_blank">heart-healthy diet</a> can help you control heart disease risk factors like <a href="https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure" target="_blank">high blood pressure</a> and <a href="https://my.clevelandclinic.org/health/articles/11918-cholesterol-high-cholesterol-diseases" target="_blank">high cholesterol</a>. Adding regular <a href="https://my.clevelandclinic.org/health/articles/16779-aerobic-exercise--heart-health" target="_blank">aerobic exercise</a> into your weekly routine strengthens your heart and has many other benefits. Before starting any exercise plan, be sure to talk with your provider.</p>
+<p>Other lifestyle choices like <a href="https://my.clevelandclinic.org/health/articles/17488-smoking" target="_blank">smoking</a> and <a href="https://my.clevelandclinic.org/health/articles/16728-alcohol--your-heart-health" target="_blank">drinking</a> can affect your heart and overall health. You may want to talk with your doctor about these lifestyle factors and decide to make some changes. It’s OK to start small. Even small changes can make a big difference over time.</p>
+<p><strong>A note from Cleveland Clinic</strong></p>
+<p>Your heart chambers work hard to keep your heart pumping and blood flowing every minute of every day. Hearts with congenital diseases and hearts that develop problems later in life need special care. But even the healthiest hearts deserve our care and attention so they can stay strong. It all starts with a visit to your healthcare provider. </p>
+<p>If you have any symptoms of heart problems, it’s essential to call your provider right away. If you have no symptoms and feel fine, it’s still a good idea to schedule a yearly appointment. Many heart problems are easily treatable if caught early. And many risk factors for heart disease like high blood pressure and high cholesterol can start in our 20s or 30s. So it’s never too soon to start thinking about your heart and what you can do to make it healthier.</p>
+</div>
+</div>
+<div class="health-article__actions js-health-article__actions">
+<div class="share">
+<span class="share__title">Share</span>
+<a class="share__link" href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=http://my.clevelandclinic.org/health/body/23074-heart-chambers', 'facebook-share-dialog', 'width=626,height=436'); return false;">
+<svg aria-label="Facebook Icon" class="icon-share-facebook" fill="none" height="30" viewbox="0 0 36 31" width="34" xmlns="http://www.w3.org/2000/svg">
+<mask height="27" id="mask0_7982_217133" maskunits="userSpaceOnUse" style="mask-type:alpha" width="14" x="10" y="2">
+<path d="M24 15.5V29H10.5V2H24V15.5Z" fill="white"></path>
+</mask>
+<g mask="url(#mask0_7982_217133)">
+<path clip-rule="evenodd" d="M13.875 11H10.5V15.5H13.875V29H19.5V15.5H23.598L24 11H19.5V9.125C19.5 8.0495 19.716 7.625 20.754 7.625H24V2H19.716C15.6705 2 13.875 3.7805 13.875 7.1915V11Z" fill="#007BC2" fill-rule="evenodd"></path>
+</g>
+</svg>
+<span class="element-invisible">Facebook</span>
+</a>
+<a class="share__link" href="#" onclick="window.open('https://twitter.com/share?text=*&amp;url=http://my.clevelandclinic.org/health/body/23074-heart-chambers&amp;via=clevelandclinic', 'twitter-share-dialog', 'width=626,height=436'); return false;">
+<svg aria-label="Twitter Icon" class="icon-share-twitter" height="30" viewbox="0 0 24 20" width="30" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<path d="M22.15 18H0V0h22.15v18z" id="icon-share-twitter__a"></path>
+</defs>
+<g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+<mask fill="#fff" id="icon-share-twitter__b"><use xlink:href="#icon-share-twitter__a"></use></mask>
+<path d="M22.15 2.13a9.072 9.072 0 0 1-2.61.716A4.546 4.546 0 0 0 21.536.332a9.11 9.11 0 0 1-2.885 1.103A4.538 4.538 0 0 0 15.335 0c-2.934 0-5.09 2.737-4.427 5.578A12.897 12.897 0 0 1 1.542.831 4.55 4.55 0 0 0 2.948 6.9 4.527 4.527 0 0 1 .89 6.33c-.049 2.106 1.46 4.075 3.645 4.514-.64.173-1.34.214-2.052.078a4.548 4.548 0 0 0 4.245 3.155A9.138 9.138 0 0 1 0 15.96 12.865 12.865 0 0 0 6.966 18c8.437 0 13.203-7.126 12.915-13.517a9.232 9.232 0 0 0 2.268-2.352" fill="#007BC2" mask="url(#b)"></path>
+</g>
+</svg>
+<span class="element-invisible">Twitter</span>
+</a>
+<a class="share__link" href="#" onclick="window.open('https://www.linkedin.com/shareArticle?mini=true&amp;url=http://my.clevelandclinic.org/health/body/23074-heart-chambers&amp;title=*&amp;source=cleveland-clinic', 'linkedin-share-dialog', 'width=850,height=436'); return false;">
+<svg aria-label="LinkedIn Icon" class="icon-share-linkedin" fill="none" height="30" viewbox="0 0 33 33" width="30" xmlns="http://www.w3.org/2000/svg">
+<path clip-rule="evenodd" d="M8.77878 6.05133C8.77878 7.56933 7.55778 8.80023 6.05133 8.80023C5.69164 8.79893 5.33573 8.7268 5.00391 8.58795C4.6721 8.44911 4.37088 8.24626 4.11746 7.991C3.86404 7.73574 3.66338 7.43307 3.52693 7.10026C3.39049 6.76745 3.32093 6.41102 3.32223 6.05133C3.32223 4.53333 4.54323 3.30078 6.05133 3.30078C6.41102 3.30229 6.76689 3.37464 7.09863 3.51369C7.43036 3.65274 7.73145 3.85576 7.98472 4.11118C8.23799 4.36659 8.43847 4.66939 8.57471 5.00228C8.71096 5.33517 8.7803 5.69164 8.77878 6.05133V6.05133ZM8.80023 11.0013H3.30078V28.6002H8.80023V11.0013ZM17.5815 11.0013H12.1167V28.6002H17.5815V19.3619C17.5815 14.2254 24.2145 13.8047 24.2145 19.3619V28.6019H29.7008V17.4561C29.7008 8.78868 19.8866 9.10383 17.5815 13.3707V11.0013Z" fill="#007BC2" fill-rule="evenodd"></path>
+</svg>
+<span class="element-invisible">LinkedIn</span>
+</a>
+<a class="share__link" href="mailto:?subject=Cleveland Clinic - *&amp;body=http://my.clevelandclinic.org/health/body/23074-heart-chambers" target="_blank">
+<svg aria-label="Email Icon" class="icon-share-email" fill="none" height="25" viewbox="0 0 28 25" width="28" xmlns="http://www.w3.org/2000/svg">
+<path clip-rule="evenodd" d="M2.3472 4.10156L13.9987 13.8156L25.6514 4.10156H2.3472ZM13.9987 16.3884L2.33203 6.66476V22.1016H25.6654V6.66476L13.9987 16.3884Z" fill="#007BC2" fill-rule="evenodd"></path>
+</svg>
+<span class="element-invisible">Email</span>
+</a>
+<a class="share__link" href="?view=print" target="_blank">
+<svg aria-label="Print Icon" class="icon-share-print" fill="none" height="31" viewbox="0 0 36 31" width="36" xmlns="http://www.w3.org/2000/svg">
+<path clip-rule="evenodd" d="M13.5 22.25H22.5V21.125H13.5V22.25ZM29.25 10.4375C29.25 10.2883 29.1907 10.1452 29.0852 10.0398C28.9798 9.93426 28.8367 9.875 28.6875 9.875C28.5383 9.875 28.3952 9.93426 28.2898 10.0398C28.1843 10.1452 28.125 10.2883 28.125 10.4375C28.125 10.5867 28.1843 10.7298 28.2898 10.8352C28.3952 10.9407 28.5383 11 28.6875 11C28.8367 11 28.9798 10.9407 29.0852 10.8352C29.1907 10.7298 29.25 10.5867 29.25 10.4375ZM11.25 7.625H24.75V4.25H11.25V7.625ZM11.25 26.75H24.75V18.875H11.25V26.75ZM31.5 7.625V22.25H27V29H9V22.25H4.5V7.625H9V2H27V7.625H31.5ZM13.5 24.5H20.25V23.375H13.5V24.5Z" fill="#007BC2" fill-rule="evenodd"></path>
+</svg>
+<span class="element-invisible">Print</span>
+</a>
+</div>
+</div>
+<footer class="health-article__footer">
+<div class="content-pad">
+<p>Last reviewed by a Cleveland Clinic medical professional on 05/20/2022.</p>
+<h4 class="js-health-article__references-title health-article__references-title">References <i aria-label="Toggle visibility of the references." class="js-icon-toggle icon-plus-circle" role="button"></i></h4>
+<div class="js-health-article__references health-article__references">
+<ul>
+<li>American Heart Association. <span>Multiple pages.<span class="health-article__source-url--references"> (https://www.heart.org/en/health-topics/heart-valve-problems-and-disease/heart-valve-problems-and-causes/problem-aortic-valve-stenosis) </span></span> Accessed 5/20/2022.</li>
+<li>Centers for Disease Control and Prevention. <span>Valvular Heart Disease.<span class="health-article__source-url--references"> (https://www.cdc.gov/heartdisease/valvular_disease.htm) </span></span> Accessed 5/20/2022.</li>
+<li>National Heart, Lung, and Blood Institute. <span>How the Heart Works.<span class="health-article__source-url--references"> (https://www.nhlbi.nih.gov/health-topics/how-heart-works) </span></span> Accessed 5/20/2022.</li>
+<li>StatPearls. <span>Anatomy, Thorax, Heart.<span class="health-article__source-url--references"> (https://www.statpearls.com/ArticleLibrary/viewarticle/22652) </span></span> Accessed 5/20/2022.</li>
+<li>U.S. National Institutes of Health, National Library of Medicine. <span>Endocarditis.<span class="health-article__source-url--references"> (https://medlineplus.gov/ency/article/001098.htm) </span></span> Accessed 5/20/2022.</li>
+<li>U.S. National Institutes of Health, National Library of Medicine. <span>Tricuspid Regurgitation.<span class="health-article__source-url--references"> (https://medlineplus.gov/ency/article/000169.htm) </span></span> Accessed 5/20/2022.</li>
+</ul>
+</div>
+</div>
+</footer>
+<div class="newsletter">
+<div class="newsletter__title">Get useful, helpful and relevant health + wellness information</div>
+<div class="newsletter__brand">
+<figure class="newsletter__logo">
+<svg aria-label="Health Essentials Newsletter" class="logo--health-essentials-newsletter-mobile" height="68.35445" role="img" viewbox="0 0 323.529 68.35445" width="323.529" xmlns="http://www.w3.org/2000/svg">
+<path d="M308.21472,34.98875a11.77641,11.77641,0,0,0,5.50575,1.23935,9.33012,9.33012,0,0,0,6.4051-2.12773,7.13632,7.13632,0,0,0,2.4129-5.63737,6.89529,6.89529,0,0,0-1.45868-4.61738q-1.44774-1.7274-5.48383-3.27932c-.40579-.15355-.96516-.3729-1.66707-.63613-2.65418-.98708-3.97028-1.95224-3.97028-2.89546a2.17809,2.17809,0,0,1,.85548-1.82062,3.734,3.734,0,0,1,2.369-.669,5.32708,5.32708,0,0,1,2.4787.62515,9.09907,9.09907,0,0,1,2.43482,1.91934l3.76189-3.26835a11.56882,11.56882,0,0,0-3.83867-2.9174,11.19981,11.19981,0,0,0-4.66125-.94322,9.23861,9.23861,0,0,0-6.26252,2.07289,6.67368,6.67368,0,0,0-2.41289,5.31931A5.98711,5.98711,0,0,0,306.2735,21.674q1.57932,1.67805,6.31737,3.45481c.14259.0658.351.15355.63611.26322q3.96481,1.46418,3.97028,3.36707a2.49577,2.49577,0,0,1-.9432,2.051,3.97488,3.97488,0,0,1-2.56642.75677,5.52334,5.52334,0,0,1-2.93932-.87741,11.34708,11.34708,0,0,1-2.84062-2.74191l-4.04706,3.16965a12.90126,12.90126,0,0,0,4.35408,3.87157M299.60512.671h-5.97738V35.67971h5.97738Zm-11.856,35.00872c-.12062-.76773-.21936-1.42579-.28517-1.98514-.05482-.55935-.0987-1.031-.0987-1.42579V17.42955a6.6793,6.6793,0,0,0-2.4458-5.50576,10.5935,10.5935,0,0,0-6.82187-1.97418,12.37408,12.37408,0,0,0-5.67028,1.22838,10.18853,10.18853,0,0,0-3.99222,3.68513l4.04707,2.56643a6.47935,6.47935,0,0,1,5.52768-2.88449,4.08038,4.08038,0,0,1,2.64321.75676,2.58787,2.58787,0,0,1,.93224,2.1387v1.97417q-7.38672.92129-10.858,3.30126a7.50137,7.50137,0,0,0-3.46578,6.52575,6.67243,6.67243,0,0,0,1.79869,4.93544,6.6931,6.6931,0,0,0,4.9464,1.78773,12.36691,12.36691,0,0,0,3.92642-.62515,13.39676,13.39676,0,0,0,3.5974-1.86451l.51548,2.21547,5.70319-.011ZM281.4098,28.792a10.661,10.661,0,0,1-2.76386,1.99611,6.43633,6.43633,0,0,1-2.78577.65806,2.66869,2.66869,0,0,1-1.99612-.70193,2.70252,2.70252,0,0,1-.70193-1.99611,3.94569,3.94569,0,0,1,1.97418-3.46577,15.949,15.949,0,0,1,6.2735-1.87547Zm-18.78757-18.3379h-5.97736V35.67971h5.97736Zm0-9.78314h-5.97736V6.31933h5.97736ZM247.72816,15.36763h4.9135v-4.9135h-4.9135V2.36h-5.9664v8.09413h-3.26835v4.9135h3.26835v14.927a6.15836,6.15836,0,0,0,1.41482,4.49673,6.14113,6.14113,0,0,0,4.5077,1.4258c.94322,0,1.8316-.04387,2.68707-.12064a18.72262,18.72262,0,0,0,2.27031-.329V30.854c-.42773.0658-.84451.10967-1.27225.14258s-.82257.04387-1.19547.04387a2.65189,2.65189,0,0,1-1.9303-.54838,3.783,3.783,0,0,1-.51548-2.39095ZM220.38581,35.67971V17.627a12.63253,12.63253,0,0,1,2.90642-2.11676,6.05706,6.05706,0,0,1,2.68707-.68,2.44157,2.44157,0,0,1,2.21547,1.02,6.73528,6.73528,0,0,1,.65807,3.46578V35.67971h5.97736V18.16438q0-4.06352-1.77675-6.14188a6.60222,6.60222,0,0,0-5.30834-2.07289,8.86766,8.86766,0,0,0-3.65223.78967,19.722,19.722,0,0,0-4.12382,2.68708V10.45413h-5.50577V35.67971ZM205.2724,28.01333a7.80876,7.80876,0,0,1-2.29223,2.47869,5.18423,5.18423,0,0,1-2.8516.76773,4.63925,4.63925,0,0,1-3.97028-1.79869,9.12159,9.12159,0,0,1-1.3929-5.37415l15.12438-.02193c0-.14258.011-.351.02194-.64709.02194-.29613.02194-.50452.02194-.6471,0-4.058-.91032-7.21671-2.74191-9.45411a9.38754,9.38754,0,0,0-7.69929-3.36706,9.487,9.487,0,0,0-7.798,3.47674c-1.87548,2.32514-2.80772,5.53866-2.80772,9.6625s.94322,7.32638,2.8187,9.61862a9.62736,9.62736,0,0,0,7.87476,3.43288,12.60215,12.60215,0,0,0,6.06511-1.38193,9.56888,9.56888,0,0,0,3.99222-4.058ZM196.246,15.85021a4.07635,4.07635,0,0,1,3.23545-1.40386,4.23147,4.23147,0,0,1,3.36708,1.41483,5.82214,5.82214,0,0,1,1.21741,3.92641h-9.21282a6.52976,6.52976,0,0,1,1.39288-3.93738M171.73334,34.98875a11.74494,11.74494,0,0,0,5.50576,1.23935,9.33014,9.33014,0,0,0,6.4051-2.12773,7.1363,7.1363,0,0,0,2.41288-5.63737,6.89519,6.89519,0,0,0-1.4587-4.61738,13.67944,13.67944,0,0,0-5.48382-3.27932c-.4058-.15355-.96516-.3729-1.66709-.63613-2.65417-.98708-3.97028-1.95224-3.97028-2.89546a2.17806,2.17806,0,0,1,.85547-1.82062,3.73409,3.73409,0,0,1,2.369-.669,5.35994,5.35994,0,0,1,2.47868.62515,9.09892,9.09892,0,0,1,2.43482,1.91934l3.76189-3.26835a11.49607,11.49607,0,0,0-3.84963-2.9174,11.19978,11.19978,0,0,0-4.66125-.94322,9.25823,9.25823,0,0,0-6.26254,2.07289,6.67367,6.67367,0,0,0-2.41288,5.31931,5.98714,5.98714,0,0,0,1.59031,4.32125c1.06386,1.1187,3.15869,2.2703,6.31736,3.45481.14258.0658.351.15355.63612.26322q3.96482,1.46418,3.97029,3.36707a2.46547,2.46547,0,0,1-.94322,2.051,3.97491,3.97491,0,0,1-2.56643.75677,5.52337,5.52337,0,0,1-2.93932-.87741,11.34673,11.34673,0,0,1-2.84061-2.74191l-4.04707,3.16965a13.245,13.245,0,0,0,4.36514,3.87157m-21.17853,0a11.7764,11.7764,0,0,0,5.50577,1.23935,9.33014,9.33014,0,0,0,6.4051-2.12773,7.17156,7.17156,0,0,0,2.41288-5.63737,6.95316,6.95316,0,0,0-1.4587-4.61738A13.67944,13.67944,0,0,0,157.936,20.5663c-.4058-.15355-.96516-.3729-1.66709-.63613q-3.96481-1.48062-3.97028-2.89546a2.17806,2.17806,0,0,1,.85547-1.82062,3.72161,3.72161,0,0,1,2.358-.669,5.32691,5.32691,0,0,1,2.47868.62515,9.09892,9.09892,0,0,1,2.43482,1.91934l3.76189-3.26835a11.56892,11.56892,0,0,0-3.83867-2.9174,11.25145,11.25145,0,0,0-4.67221-.94322,9.25823,9.25823,0,0,0-6.26254,2.07289,6.67367,6.67367,0,0,0-2.41288,5.31931,5.98714,5.98714,0,0,0,1.59031,4.32125q1.57935,1.67805,6.31736,3.45481c.14258.0658.351.15355.63612.26322q3.96481,1.46418,3.97029,3.36707a2.46547,2.46547,0,0,1-.94322,2.051,3.97491,3.97491,0,0,1-2.56643.75677,5.52337,5.52337,0,0,1-2.93932-.87741,11.34673,11.34673,0,0,1-2.84061-2.74191l-4.04707,3.16965a13.16771,13.16771,0,0,0,4.37611,3.87157m-11.50505-6.97542a7.80866,7.80866,0,0,1-2.29224,2.47869,5.21,5.21,0,0,1-2.85158.76773,4.63927,4.63927,0,0,1-3.97029-1.79869,9.12166,9.12166,0,0,1-1.39289-5.37415l15.12437-.02193c0-.14258.011-.351.02194-.64709s.02194-.50452.02194-.6471c0-4.058-.91031-7.21671-2.74191-9.45411a9.38753,9.38753,0,0,0-7.69928-3.36706,9.487,9.487,0,0,0-7.798,3.47674c-1.87546,2.32514-2.80771,5.53866-2.80771,9.6625s.94322,7.32638,2.81868,9.61862a9.62739,9.62739,0,0,0,7.87477,3.43288,12.60215,12.60215,0,0,0,6.06511-1.38193,9.569,9.569,0,0,0,3.99223-4.058Zm-9.0154-12.16312a4.07632,4.07632,0,0,1,3.23545-1.40386,4.23147,4.23147,0,0,1,3.36707,1.41483,5.82518,5.82518,0,0,1,1.22838,3.92641h-9.2238a6.52989,6.52989,0,0,1,1.3929-3.93738" fill="#007bc2"></path>
+<path d="M101.8804,35.67971V17.34181a16.19869,16.19869,0,0,1,3.9703-3.49868,7.50013,7.50013,0,0,1,3.88254-1.17354,4.32243,4.32243,0,0,1,3.65223,1.40386c.7129.93225,1.07483,2.65417,1.07483,5.15479V35.67971h2.98321V18.16438q0-4.04706-1.72192-6.07607a6.30514,6.30514,0,0,0-5.12189-2.029,9.53891,9.53891,0,0,0-4.31029,1.10773,17.439,17.439,0,0,0-4.409,3.2903V.90131h-2.9832v34.7784ZM89.05923,12.94378h5.26448V10.498H89.05923V3.01806H86.076V10.498h-3.74v2.44578h3.74v17.8663a5.9127,5.9127,0,0,0,1.20644,4.1019,4.92715,4.92715,0,0,0,3.78384,1.30515,10.79562,10.79562,0,0,0,1.63417-.13161q.85548-.13162,1.77676-.36194l-.02193-2.39095c-.68.17549-1.20644.29613-1.60127.36194a5.41761,5.41761,0,0,1-1.031.10967,2.792,2.792,0,0,1-2.08386-.691,2.98882,2.98882,0,0,1-.669-2.14966l-.011-18.01984ZM77.46643.90131h-2.9832v34.7784h2.9832ZM59.34788,32.68554a8.04932,8.04932,0,0,1-3.91545,1.07483,4.00667,4.00667,0,0,1-3.06-1.1845,4.58658,4.58658,0,0,1-1.10773-3.27933,5.10521,5.10521,0,0,1,2.47869-4.4748q2.48417-1.66159,9.838-3.27932v7.76509a19.31393,19.31393,0,0,1-4.23351,3.378m7.69928,2.99417c-.13161-.76773-.23032-1.44773-.30709-2.018a11.33294,11.33294,0,0,1-.12064-1.33806V16.66181a5.86658,5.86658,0,0,0-2.28127-4.738,8.906,8.906,0,0,0-5.81285-1.8645,10.38644,10.38644,0,0,0-5.26447,1.22838,10.39441,10.39441,0,0,0-3.6961,3.93738l2.32514,1.33806a8.33885,8.33885,0,0,1,2.65417-3.049A6.3752,6.3752,0,0,1,58.1195,12.516a6.43947,6.43947,0,0,1,4.01416,1.12967,3.60665,3.60665,0,0,1,1.4916,3.00514v2.44578c-5.64834,1.02-9.60766,2.31418-11.91087,3.88255a7.38549,7.38549,0,0,0-3.44384,6.438A6.57965,6.57965,0,0,0,50.146,34.27585a6.66612,6.66612,0,0,0,4.90254,1.8645,10.552,10.552,0,0,0,4.36512-.93225,15.33894,15.33894,0,0,0,4.16771-2.86255c.0329.46064.08774.94322.15354,1.4587.07678.51547.18645,1.14063.34,1.85353h2.97223ZM39.62805,32.45523a6.58054,6.58054,0,0,1-4.069,1.25031,6.32383,6.32383,0,0,1-5.51672-2.75288q-1.92483-2.7474-1.94128-7.92961l16.605-.02194v-.80063c0-3.97029-.80064-6.98639-2.42385-9.08121A8.32656,8.32656,0,0,0,35.2739,9.99349a8.849,8.849,0,0,0-7.3922,3.58642q-2.76384,3.58641-2.76384,9.67346,0,5.90609,2.77481,9.36637a9.07607,9.07607,0,0,0,7.47993,3.46578,9.66315,9.66315,0,0,0,5.54964-1.53547,12.42646,12.42646,0,0,0,3.92641-4.94641l-2.21546-1.19548a10.46322,10.46322,0,0,1-3.00514,4.04707M28.112,20.84049a10.64489,10.64489,0,0,1,2.2703-6.16382,6.27191,6.27191,0,0,1,4.94641-2.21546,5.71832,5.71832,0,0,1,4.76,2.20449,10.2053,10.2053,0,0,1,1.82063,6.17479ZM3.9832,35.67971V17.34181a16.39929,16.39929,0,0,1,3.97029-3.49868A7.50018,7.50018,0,0,1,11.836,12.66959a4.32243,4.32243,0,0,1,3.65223,1.40386c.7129.93225,1.07483,2.65417,1.07483,5.15479V35.67971h2.9832V18.16438q0-4.04706-1.711-6.07607a6.30514,6.30514,0,0,0-5.1219-2.029A9.5389,9.5389,0,0,0,8.40316,11.167a17.63337,17.63337,0,0,0-4.409,3.2903V.90131H1v34.7784Z" fill="#1d8553"></path>
+<path d="M12.48128,67.32965H10.513L3.03792,55.88824V67.32965H1.07015V52.482H3.03792l7.49561,11.49219V52.482h1.94775Zm7.76026.2041a4.82166,4.82166,0,0,1-3.65088-1.47363,5.46967,5.46967,0,0,1-1.40723-3.94141V61.772a6.61306,6.61306,0,0,1,.62744-2.93164,4.88988,4.88988,0,0,1,1.75391-2.01953,4.41489,4.41489,0,0,1,2.44238-.72852,4.13132,4.13132,0,0,1,3.34473,1.417,6.13763,6.13763,0,0,1,1.19287,4.05859v.78516H17.07015a3.91589,3.91589,0,0,0,.95361,2.63574,2.99641,2.99641,0,0,0,2.31983,1.00488,3.28181,3.28181,0,0,0,1.69287-.4082,4.2433,4.2433,0,0,0,1.21338-1.08106l1.15234.89746A4.63405,4.63405,0,0,1,20.24154,67.53375Zm-.23438-9.8916a2.51433,2.51433,0,0,0-1.91748.831,4.04106,4.04106,0,0,0-.9585,2.33008h5.52735V60.6607a3.5985,3.5985,0,0,0-.7749-2.22851A2.37106,2.37106,0,0,0,20.00716,57.64215Zm16.48926,7.08691,2.12109-8.43359h1.88672l-3.2124,11.03418h-1.5293L33.0804,58.96734l-2.61035,8.36231H28.94027L25.73812,56.29547h1.87646l2.17188,8.26074,2.56982-8.26074h1.51953Zm12.34912-.32617a1.38656,1.38656,0,0,0-.57617-1.1875,5.547,5.547,0,0,0-2.00879-.72949,9.51616,9.51616,0,0,1-2.27393-.73438A3.22854,3.22854,0,0,1,42.74251,60.732a2.4394,2.4394,0,0,1-.40283-1.40723,2.86386,2.86386,0,0,1,1.147-2.29492,4.48355,4.48355,0,0,1,2.93213-.9375,4.60836,4.60836,0,0,1,3.044.96875,3.07615,3.07615,0,0,1,1.16748,2.47754H48.73372a1.70406,1.70406,0,0,0-.6582-1.33594,2.46311,2.46311,0,0,0-1.65674-.56054,2.58111,2.58111,0,0,0-1.61133.44824,1.41358,1.41358,0,0,0-.58154,1.17285,1.14456,1.14456,0,0,0,.54053,1.03027,6.64446,6.64446,0,0,0,1.95312.66309,10.15164,10.15164,0,0,1,2.28907.75391,3.34584,3.34584,0,0,1,1.30029,1.05566,2.59475,2.59475,0,0,1,.42334,1.50391,2.82348,2.82348,0,0,1-1.18311,2.37109,4.96207,4.96207,0,0,1-3.06933.89258,5.547,5.547,0,0,1-2.34571-.46973,3.812,3.812,0,0,1-1.5957-1.30957,3.15941,3.15941,0,0,1-.57617-1.82031H43.849a1.95139,1.95139,0,0,0,.75976,1.50391,2.94875,2.94875,0,0,0,1.8711.55566,3.041,3.041,0,0,0,1.71826-.43359A1.3319,1.3319,0,0,0,48.84554,64.40289Zm6.394,2.92676H53.35286V51.66656h1.88672Zm7.59717.2041a4.82167,4.82167,0,0,1-3.65088-1.47363,5.46967,5.46967,0,0,1-1.40723-3.94141V61.772a6.61307,6.61307,0,0,1,.62745-2.93164A4.88993,4.88993,0,0,1,60.16,56.82086a4.41492,4.41492,0,0,1,2.44239-.72852,4.1313,4.1313,0,0,1,3.34472,1.417A6.13763,6.13763,0,0,1,67.14,61.56793v.78516H59.66536a3.91589,3.91589,0,0,0,.95362,2.63574,2.99639,2.99639,0,0,0,2.31982,1.00488,3.28179,3.28179,0,0,0,1.69287-.4082,4.24316,4.24316,0,0,0,1.21338-1.08106l1.15234.89746A4.63405,4.63405,0,0,1,62.83675,67.53375Zm-.23437-9.8916a2.51436,2.51436,0,0,0-1.91749.831,4.04106,4.04106,0,0,0-.95849,2.33008h5.52734V60.6607a3.59844,3.59844,0,0,0-.7749-2.22851A2.371,2.371,0,0,0,62.60238,57.64215Zm9.27978-4.01856v2.67188h2.06006v1.459H71.88216V64.605a1.53414,1.53414,0,0,0,.27539.99609,1.15987,1.15987,0,0,0,.938.33106,4.52847,4.52847,0,0,0,.89746-.12207v1.5205a5.47575,5.47575,0,0,1-1.44824.20313A2.3495,2.3495,0,0,1,70.638,66.7691a3.2876,3.2876,0,0,1-.64258-2.17285v-6.8418H67.98665v-1.459h2.00879V53.62359Zm6.82227,0v2.67188h2.06005v1.459H78.70443V64.605a1.53408,1.53408,0,0,0,.27539.99609,1.15987,1.15987,0,0,0,.938.33106,4.52847,4.52847,0,0,0,.89746-.12207v1.5205a5.47588,5.47588,0,0,1-1.44825.20313,2.34949,2.34949,0,0,1-1.90673-.76465,3.28754,3.28754,0,0,1-.64258-2.17285v-6.8418H74.80892v-1.459h2.00879V53.62359Zm8.8413,13.91016a4.82165,4.82165,0,0,1-3.65087-1.47363,5.46967,5.46967,0,0,1-1.40723-3.94141V61.772a6.61306,6.61306,0,0,1,.62744-2.93164A4.88988,4.88988,0,0,1,84.869,56.82086a4.41489,4.41489,0,0,1,2.44238-.72852,4.13132,4.13132,0,0,1,3.34473,1.417A6.13763,6.13763,0,0,1,91.849,61.56793v.78516H84.37435a3.91584,3.91584,0,0,0,.95361,2.63574,2.99641,2.99641,0,0,0,2.31983,1.00488,3.28184,3.28184,0,0,0,1.69287-.4082A4.2433,4.2433,0,0,0,90.554,64.50445l1.15234.89746A4.63407,4.63407,0,0,1,87.54573,67.53375Zm-.23437-9.8916a2.51433,2.51433,0,0,0-1.91748.831,4.04106,4.04106,0,0,0-.9585,2.33008h5.52735V60.6607a3.59844,3.59844,0,0,0-.77491-2.22851A2.371,2.371,0,0,0,87.31136,57.64215Zm12.05371.34668a5.63008,5.63008,0,0,0-.92822-.07129,2.485,2.485,0,0,0-2.51856,1.58008v7.832H94.03157V56.29547H95.867l.03077,1.27539a2.93624,2.93624,0,0,1,2.63085-1.47852,1.921,1.921,0,0,1,.83643.14258Z" fill="#363636"></path>
+</svg>
+<svg aria-label="Health Essentials Newsletter" class="logo--health-essentials-newsletter-desktop" height="84.36132" role="img" viewbox="0 0 154.876 84.36132" width="154.876" xmlns="http://www.w3.org/2000/svg">
+<path d="M80.113,27.23066v-14.14a12.53763,12.53763,0,0,1,3.06-2.7,5.75881,5.75881,0,0,1,2.99-.91,3.33442,3.33442,0,0,1,2.82,1.08c.55.72.82,2.04.82,3.98v12.69h2.3v-13.5a7.14882,7.14882,0,0,0-1.32-4.69,4.89435,4.89435,0,0,0-3.95-1.57,7.27916,7.27916,0,0,0-3.32.85,13.59708,13.59708,0,0,0-3.4,2.54V.42066h-2.3v26.81Zm-9.88-17.53h4.06v-1.88h-4.06v-5.77h-2.3v5.76h-2.88v1.88h2.88v13.77a4.53711,4.53711,0,0,0,.93,3.16,3.79933,3.79933,0,0,0,2.92,1.01,8.00091,8.00091,0,0,0,1.26-.1c.44-.07.89-.16,1.37-.28l-.02-1.85c-.52.13-.93.23-1.23.28a4.07534,4.07534,0,0,1-.8.08,2.14138,2.14138,0,0,1-1.6-.53,2.34083,2.34083,0,0,1-.52-1.66v-13.87Zm-8.94-9.28h-2.3v26.81h2.3Zm-13.96,24.5a6.19948,6.19948,0,0,1-3.02.83,3.08882,3.08882,0,0,1-2.36-.91,3.55718,3.55718,0,0,1-.86-2.53,3.95991,3.95991,0,0,1,1.91-3.45c1.28-.85,3.8-1.7,7.58-2.53v5.98a14.7563,14.7563,0,0,1-3.25,2.61m5.94,2.31q-.15-.885-.24-1.56a8.38831,8.38831,0,0,1-.09-1.03v-12.08a4.53035,4.53035,0,0,0-1.76-3.65,6.82475,6.82475,0,0,0-4.48-1.44,8.04878,8.04878,0,0,0-4.06.95,7.98405,7.98405,0,0,0-2.85,3.03l1.79,1.03a6.46864,6.46864,0,0,1,2.05-2.35,4.96857,4.96857,0,0,1,2.75-.77,5.025,5.025,0,0,1,3.1.87,2.77675,2.77675,0,0,1,1.15,2.32v1.88q-6.525,1.17-9.18,2.99a5.70754,5.70754,0,0,0-2.66,4.97,5.033,5.033,0,0,0,1.45,3.74,5.11122,5.11122,0,0,0,3.78,1.44,8.1197,8.1197,0,0,0,3.36-.72,12.241,12.241,0,0,0,3.22-2.2c.03.35.07.72.12,1.12.06.4.15.88.27,1.43h2.28Zm-21.14-2.49a5.09761,5.09761,0,0,1-3.14.96,4.86392,4.86392,0,0,1-4.25-2.12,10.73277,10.73277,0,0,1-1.5-6.11l12.8-.02v-.62q0-4.59-1.87-7a6.4247,6.4247,0,0,0-5.4-2.41,6.83335,6.83335,0,0,0-5.7,2.76,11.91494,11.91494,0,0,0-2.13,7.46,11.20949,11.20949,0,0,0,2.14,7.22,7.00646,7.00646,0,0,0,5.76,2.67,7.43558,7.43558,0,0,0,4.28-1.19,9.57669,9.57669,0,0,0,3.03-3.81l-1.7-.93a8.16789,8.16789,0,0,1-2.32,3.14m-8.88-8.95a8.14854,8.14854,0,0,1,1.75-4.75,4.80891,4.80891,0,0,1,3.81-1.7,4.41509,4.41509,0,0,1,3.67,1.7,7.85366,7.85366,0,0,1,1.4,4.76H23.253Zm-18.59,11.44v-14.14a12.72251,12.72251,0,0,1,3.06-2.7,5.7857,5.7857,0,0,1,2.99-.91,3.33442,3.33442,0,0,1,2.82,1.08,6.87757,6.87757,0,0,1,.83,3.98v12.69h2.3v-13.5a7.14882,7.14882,0,0,0-1.32-4.69,4.89438,4.89438,0,0,0-3.95-1.57,7.31038,7.31038,0,0,0-3.32.85,13.59726,13.59726,0,0,0-3.4,2.54V.42066h-2.3v26.81Z" fill="#1d8553"></path>
+<path d="M143.323,57.20066a9.10618,9.10618,0,0,0,4.24.95,7.21977,7.21977,0,0,0,4.94-1.64,5.49864,5.49864,0,0,0,1.86-4.34,5.32873,5.32873,0,0,0-1.12-3.56,10.607,10.607,0,0,0-4.22-2.53c-.31-.12-.74-.28-1.29-.49-2.04-.76-3.06-1.5-3.06-2.23a1.67664,1.67664,0,0,1,.66-1.4,2.917,2.917,0,0,1,1.82-.52,4.12809,4.12809,0,0,1,1.91.48,7.11459,7.11459,0,0,1,1.88,1.48l2.9-2.52a8.96685,8.96685,0,0,0-2.96-2.25,8.70125,8.70125,0,0,0-3.6-.72,7.17339,7.17339,0,0,0-4.83,1.59,5.15039,5.15039,0,0,0-1.86,4.1,4.64715,4.64715,0,0,0,1.22,3.33,13.71659,13.71659,0,0,0,4.87,2.66c.11.05.27.12.49.2,2.04.75,3.06,1.61,3.06,2.59a1.93358,1.93358,0,0,1-.72,1.58,3.05271,3.05271,0,0,1-1.98.58,4.28314,4.28314,0,0,1-2.27-.68,8.73037,8.73037,0,0,1-2.19-2.11l-3.12,2.45a10.31088,10.31088,0,0,0,3.37,3m-6.63-26.46h-4.6v26.99h4.6Zm-9.14,26.99c-.1-.59-.17-1.1-.22-1.53a9.51741,9.51741,0,0,1-.07-1.1v-11.43a5.15737,5.15737,0,0,0-1.88-4.24,8.195,8.195,0,0,0-5.26-1.52,9.57052,9.57052,0,0,0-4.37.95,7.82427,7.82427,0,0,0-3.08,2.84l3.12,1.98a5.259,5.259,0,0,1,1.86-1.67,5.17571,5.17571,0,0,1,2.4-.56,3.157,3.157,0,0,1,2.04.58,2.00564,2.00564,0,0,1,.72,1.65v1.52c-3.8.47-6.58,1.32-8.37,2.55a5.79447,5.79447,0,0,0-2.67,5.03,4.79209,4.79209,0,0,0,5.2,5.19,9.60864,9.60864,0,0,0,3.03-.48,10.0412,10.0412,0,0,0,2.77-1.44l.4,1.7h4.38Zm-4.89-5.31a8.14505,8.14505,0,0,1-2.13,1.54,4.94546,4.94546,0,0,1-2.15.51,1.88317,1.88317,0,0,1-2.08-2.08,3.04093,3.04093,0,0,1,1.52-2.67,12.20359,12.20359,0,0,1,4.84-1.44Zm-14.48-14.14h-4.6v19.45h4.6Zm0-7.54h-4.6v4.35h4.6Zm-11.47,11.33h3.79v-3.79h-3.79v-6.23h-4.6v6.23h-2.52v3.79h2.52v11.51a4.75046,4.75046,0,0,0,1.09,3.47,4.7515,4.7515,0,0,0,3.47,1.1q1.08,0,2.07-.09a14.68936,14.68936,0,0,0,1.75-.25v-3.79c-.33.05-.65.08-.98.11-.33.02-.63.04-.92.04a2.00966,2.00966,0,0,1-1.49-.43,2.91458,2.91458,0,0,1-.4-1.84v-9.83Zm-21.08,15.66v-13.92a9.52635,9.52635,0,0,1,2.24-1.63,4.677,4.677,0,0,1,2.07-.53,1.84329,1.84329,0,0,1,1.7.79,5.17905,5.17905,0,0,1,.51,2.67v12.61h4.6v-13.5a7.09992,7.09992,0,0,0-1.37-4.73,5.1043,5.1043,0,0,0-4.09-1.59,6.789,6.789,0,0,0-2.82.61,15.15224,15.15224,0,0,0-3.18,2.07v-2.3h-4.24v19.45Zm-11.65-5.91a6.01589,6.01589,0,0,1-1.77,1.91,4.06385,4.06385,0,0,1-2.2.59,3.56576,3.56576,0,0,1-3.06-1.39,7.015,7.015,0,0,1-1.07-4.14l11.65-.02c0-.11.01-.27.02-.5.01-.22.02-.39.02-.5,0-3.13-.71-5.56-2.11-7.29a7.229,7.229,0,0,0-5.94-2.59,7.30138,7.30138,0,0,0-6.01,2.68,11.57662,11.57662,0,0,0-2.17,7.45c0,3.18.73,5.65,2.17,7.41a7.43221,7.43221,0,0,0,6.07,2.65,9.73994,9.73994,0,0,0,4.68-1.06,7.44125,7.44125,0,0,0,3.08-3.13Zm-6.95-9.38a3.11994,3.11994,0,0,1,2.49-1.08,3.23378,3.23378,0,0,1,2.59,1.09,4.45135,4.45135,0,0,1,.94,3.03h-7.1a5.00865,5.00865,0,0,1,1.08-3.04m-18.9,14.76a9.10611,9.10611,0,0,0,4.24.95,7.21977,7.21977,0,0,0,4.94-1.64,5.49867,5.49867,0,0,0,1.86-4.34,5.32873,5.32873,0,0,0-1.12-3.56,10.60692,10.60692,0,0,0-4.22-2.53c-.31-.12-.74-.28-1.29-.49-2.04-.76-3.06-1.5-3.06-2.23a1.67667,1.67667,0,0,1,.66-1.4,2.917,2.917,0,0,1,1.82-.52,4.128,4.128,0,0,1,1.91.48,7.1144,7.1144,0,0,1,1.88,1.48l2.9-2.52a8.96692,8.96692,0,0,0-2.96-2.25,8.70125,8.70125,0,0,0-3.6-.72,7.17334,7.17334,0,0,0-4.83,1.59,5.15039,5.15039,0,0,0-1.86,4.1,4.64714,4.64714,0,0,0,1.22,3.33,13.71656,13.71656,0,0,0,4.87,2.66c.11.05.27.12.49.2,2.04.75,3.06,1.61,3.06,2.59a1.91362,1.91362,0,0,1-.73,1.58,3.05274,3.05274,0,0,1-1.98.58,4.2244,4.2244,0,0,1-2.26-.68,8.56734,8.56734,0,0,1-2.19-2.11l-3.12,2.45a10.311,10.311,0,0,0,3.37,3m-16.33,0a9.10611,9.10611,0,0,0,4.24.95,7.21977,7.21977,0,0,0,4.94-1.64,5.49867,5.49867,0,0,0,1.86-4.34,5.38206,5.38206,0,0,0-1.12-3.56,10.607,10.607,0,0,0-4.22-2.53c-.32-.12-.74-.28-1.29-.49-2.04-.76-3.06-1.5-3.06-2.23a1.67664,1.67664,0,0,1,.66-1.4,2.917,2.917,0,0,1,1.82-.52,4.128,4.128,0,0,1,1.91.48,7.1144,7.1144,0,0,1,1.88,1.48l2.9-2.52a8.96692,8.96692,0,0,0-2.96-2.25,8.70125,8.70125,0,0,0-3.6-.72,7.17334,7.17334,0,0,0-4.83,1.59,5.15039,5.15039,0,0,0-1.86,4.1,4.61124,4.61124,0,0,0,1.23,3.33,13.62241,13.62241,0,0,0,4.87,2.66c.11.05.27.12.49.2,2.04.75,3.06,1.61,3.06,2.59a1.93358,1.93358,0,0,1-.72,1.58,3.05274,3.05274,0,0,1-1.98.58,4.25732,4.25732,0,0,1-2.27-.68,8.56734,8.56734,0,0,1-2.19-2.11l-3.12,2.45a10.18627,10.18627,0,0,0,3.36,3m-8.86-5.38a6.01589,6.01589,0,0,1-1.77,1.91,4.06385,4.06385,0,0,1-2.2.59,3.56576,3.56576,0,0,1-3.06-1.39,7.015,7.015,0,0,1-1.07-4.14l11.65-.02c0-.11.01-.27.02-.5.01-.22.02-.39.02-.5,0-3.13-.71-5.56-2.11-7.29a7.229,7.229,0,0,0-5.94-2.59,7.30138,7.30138,0,0,0-6.01,2.68,11.57662,11.57662,0,0,0-2.17,7.45c0,3.18.73,5.65,2.17,7.41a7.43221,7.43221,0,0,0,6.07,2.65,9.73994,9.73994,0,0,0,4.68-1.06,7.44125,7.44125,0,0,0,3.08-3.13Zm-6.95-9.38a3.11994,3.11994,0,0,1,2.49-1.08,3.23378,3.23378,0,0,1,2.59,1.09,4.45135,4.45135,0,0,1,.94,3.03h-7.1a5.13737,5.13737,0,0,1,1.08-3.04" fill="#007bc2"></path>
+<path d="M12.157,83.58093H10.4553l-6.46191-9.8916v9.8916H2.29173V70.745H3.99339l6.47949,9.93555V70.745H12.157Zm6.7085.17676a4.16617,4.16617,0,0,1-3.15576-1.27442,4.72771,4.72771,0,0,1-1.2168-3.40722v-.29981a5.723,5.723,0,0,1,.542-2.53418,4.23441,4.23441,0,0,1,1.5166-1.74609,3.81377,3.81377,0,0,1,2.11133-.62988,3.5708,3.5708,0,0,1,2.8916,1.22558,5.30509,5.30509,0,0,1,1.03125,3.50879v.67871H16.12376a3.38777,3.38777,0,0,0,.82422,2.27832,2.59051,2.59051,0,0,0,2.00586.86817,2.83916,2.83916,0,0,0,1.46338-.35254,3.65207,3.65207,0,0,0,1.04883-.93457l.99658.77636A4.00591,4.00591,0,0,1,18.86546,83.75769Zm-.20264-8.55176a2.17311,2.17311,0,0,0-1.65722.71875,3.48758,3.48758,0,0,0-.82862,2.01367h4.77784v-.123a3.10583,3.10583,0,0,0-.66993-1.92579A2.047,2.047,0,0,0,18.66282,75.20593Zm14.25489,6.127,1.834-7.291h1.63086l-2.77734,9.53906H32.28294l-2.31836-7.22852-2.25684,7.22852H26.38548l-2.76856-9.53906H25.239l1.87793,7.1416,2.22168-7.1416h1.31348ZM43.594,81.05066a1.202,1.202,0,0,0-.498-1.02735,4.81894,4.81894,0,0,0-1.73682-.62988,8.22067,8.22067,0,0,1-1.96582-.63477,2.80246,2.80246,0,0,1-1.07568-.88183,2.1097,2.1097,0,0,1-.34815-1.2168,2.47518,2.47518,0,0,1,.9917-1.9834,3.87813,3.87813,0,0,1,2.53467-.81054,3.99066,3.99066,0,0,1,2.63184.83691,2.66076,2.66076,0,0,1,1.00927,2.14258H43.4973a1.47584,1.47584,0,0,0-.56885-1.15527,2.13468,2.13468,0,0,0-1.43262-.48438,2.22965,2.22965,0,0,0-1.39307.3877,1.22138,1.22138,0,0,0-.50244,1.01367.98814.98814,0,0,0,.46729.89062,5.75168,5.75168,0,0,0,1.68847.57324,8.75644,8.75644,0,0,1,1.979.65235,2.89145,2.89145,0,0,1,1.124.91211,2.24561,2.24561,0,0,1,.36572,1.30078,2.44285,2.44285,0,0,1-1.02246,2.0498,4.29355,4.29355,0,0,1-2.6538.77149,4.79971,4.79971,0,0,1-2.02735-.40625,3.28746,3.28746,0,0,1-1.37988-1.13281,2.72775,2.72775,0,0,1-.498-1.57325h1.63086a1.68756,1.68756,0,0,0,.65674,1.29981,2.54253,2.54253,0,0,0,1.61768.48047,2.6303,2.6303,0,0,0,1.48584-.374A1.15143,1.15143,0,0,0,43.594,81.05066Zm5.52783,2.53027H47.491v-13.541h1.63086Zm6.56738.17676a4.16617,4.16617,0,0,1-3.15576-1.27442,4.72771,4.72771,0,0,1-1.2168-3.40722v-.29981a5.723,5.723,0,0,1,.542-2.53418A4.23436,4.23436,0,0,1,53.37523,74.496a3.81371,3.81371,0,0,1,2.11132-.62988,3.57082,3.57082,0,0,1,2.89161,1.22558,5.30509,5.30509,0,0,1,1.03125,3.50879v.67871H52.94749a3.38777,3.38777,0,0,0,.82422,2.27832,2.59051,2.59051,0,0,0,2.00586.86817,2.83916,2.83916,0,0,0,1.46338-.35254,3.65207,3.65207,0,0,0,1.04883-.93457l.99658.77636A4.00591,4.00591,0,0,1,55.68919,83.75769Zm-.20264-8.55176a2.17311,2.17311,0,0,0-1.65722.71875,3.48758,3.48758,0,0,0-.82862,2.01367h4.77784v-.123a3.10583,3.10583,0,0,0-.66993-1.92579A2.047,2.047,0,0,0,55.48655,75.20593Zm8.022-3.47363v2.30957h1.78076v1.26074H63.50853v5.92285a1.32589,1.32589,0,0,0,.23828.86133,1.0038,1.0038,0,0,0,.811.28613,3.96064,3.96064,0,0,0,.77588-.10547v1.31446a4.74234,4.74234,0,0,1-1.25195.17578,2.029,2.029,0,0,1-1.64844-.66211,2.83657,2.83657,0,0,1-.55566-1.87695v-5.916H60.14085V74.04187h1.73682V71.7323Zm5.898,0v2.30957h1.78076v1.26074H69.40648v5.92285a1.32589,1.32589,0,0,0,.23828.86133,1.0038,1.0038,0,0,0,.811.28613,3.96064,3.96064,0,0,0,.77588-.10547v1.31446a4.74234,4.74234,0,0,1-1.25195.17578,2.029,2.029,0,0,1-1.64844-.66211,2.83651,2.83651,0,0,1-.55566-1.87695v-5.916H66.0388V74.04187h1.73682V71.7323ZM77.05,83.75769a4.16617,4.16617,0,0,1-3.15576-1.27442,4.72771,4.72771,0,0,1-1.2168-3.40722v-.29981a5.723,5.723,0,0,1,.542-2.53418A4.23436,4.23436,0,0,1,74.73607,74.496a3.81371,3.81371,0,0,1,2.11132-.62988,3.56981,3.56981,0,0,1,2.89112,1.22558,5.29986,5.29986,0,0,1,1.03222,3.50879v.67871h-6.4624a3.38777,3.38777,0,0,0,.82422,2.27832,2.59051,2.59051,0,0,0,2.00586.86817,2.8404,2.8404,0,0,0,1.46338-.35254,3.65849,3.65849,0,0,0,1.04883-.93457l.99609.77636A4.00454,4.00454,0,0,1,77.05,83.75769Zm-.20264-8.55176a2.17311,2.17311,0,0,0-1.65722.71875,3.48758,3.48758,0,0,0-.82862,2.01367h4.77832v-.123a3.10613,3.10613,0,0,0-.67089-1.92579A2.04536,2.04536,0,0,0,76.84739,75.20593Zm10.41944.2998a4.90623,4.90623,0,0,0-.80176-.06152,2.14842,2.14842,0,0,0-2.17774,1.36621v6.77051H82.65648V74.04187h1.58691l.02637,1.10254a2.53813,2.53813,0,0,1,2.27441-1.27832,1.668,1.668,0,0,1,.72266.123Z" fill="#363636"></path>
+</svg>
+</figure>
+</div>
+<div class="newsletter__buttons">
+<a class="button button--sign-up" href="/health-essentials-sign-up">Sign Up</a>
+<a class="button button--health-essentials" href="https://health.clevelandclinic.org/">Visit Health Essentials</a>
+</div>
+</div>
+<div class="ad-mobile" id="mobile-ad-1">
+<div class="ad-mobile__container" id="billboard_300x250_mobile"></div>
+<div class="ad-mobile__description">
+<p>
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+<a href="https://health.clevelandclinic.org/advertising" target="_blank">Policy</a>
+</p>
+</div>
+</div>
+<div class="ad-mobile" id="mobile-ad-2">
+<div class="ad-mobile__container" id="billboard2_300x250_mobile"></div>
+</div>
+<div class="ad-mobile" id="mobile-ad-3">
+<div class="ad-mobile__container" id="billboard3_300x250_mobile"></div>
+</div>
+<div class="ad-mobile--sticky">
+<div class="ad-mobile__container" id="adhesive_320x50_mobile"></div>
+</div>
+</div>
+<aside class="l-66-33--2 side-blocks side-content">
+<div class="health-article__sidebar--desktop">
+<div class="js-ad-desktop-scroll-space--featured">
+<div class="ad-desktop__sticky">
+<div class="ad-desktop ad-desktop__container">
+<div id="billboard_300x250"></div>
+<div class="ad-desktop__description js-ad-policy">
+<p>
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+<a href="https://health.clevelandclinic.org/advertising" target="_blank">Policy</a>
+</p>
+</div>
+</div>
+<div class="js-health-library-article-sidebar">
+<div class="related-institutes__container">
+<div class="related-institutes side-block side-list">
+<h3 class="side-block__title lede">Related Institutes &amp; Services</h3>
+<div class="side-block__item side-list__item">
+<h5 class="side-list__title lede"><a href="/departments/heart">Heart, Vascular &amp; Thoracic Institute (Miller Family)</a></h5>
+<div class="side-list__text">The latest information about heart &amp; vascular disorders, treatments, tests and prevention from the No. 1-ranked heart program in the United States.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="ad-desktop js-ad-desktop-scroll-space" id="desk-ad-2">
+<div class="ad-desktop__sticky">
+<div class="ad-desktop__container" id="billboard2_300x250"></div>
+</div>
+</div>
+<div class="ad-desktop js-ad-desktop-scroll-space" id="desk-ad-3">
+<div class="ad-desktop__sticky">
+<div class="ad-desktop__container" id="billboard3_300x250"></div>
+</div>
+</div>
+<div class="ad-desktop js-ad-desktop-scroll-space" id="desk-ad-4">
+<div class="ad-desktop__sticky">
+<div class="ad-desktop__container" id="billboard4_300x250"></div>
+</div>
+</div>
+<div class="ad-desktop js-ad-desktop-scroll-space" id="desk-ad-5">
+<div class="ad-desktop__sticky">
+<div class="ad-desktop__container" id="billboard5_300x250"></div>
+</div>
+</div>
+<div class="health-article__sidebar--mobile">
+<div class="js-health-library-article-sidebar">
+<div class="related-institutes__container">
+<div class="related-institutes side-block side-list">
+<h3 class="side-block__title lede">Related Institutes &amp; Services</h3>
+<div class="side-block__item side-list__item">
+<h5 class="side-list__title lede"><a href="/departments/heart">Heart, Vascular &amp; Thoracic Institute (Miller Family)</a></h5>
+<div class="side-list__text">The latest information about heart &amp; vascular disorders, treatments, tests and prevention from the No. 1-ranked heart program in the United States.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</aside>
+</div>
+</div>
+</article>
+<section class="teaser-list teaser-list--news" id="news-section55ace0c7e16b4ba18af76fa6d9df9f5a">
+<div class="js-ad__leaderboard ad__leaderboard">
+<div class="container">
+<div class="ad__wrapper">
+<div class="ad-type--leaderboard ad-context--all" id="leaderboard2_728x90">
+</div>
+</div>
+</div>
+</div>
+<div class="container content-pad" id="news-content55ace0c7e16b4ba18af76fa6d9df9f5a">
+<h2 class="section__heading lede">
+More health news + info
+</h2>
+<div class="spinner--pad" id="loading-spinner">
+<img alt="Loading..." class="js-lazy" data-src="/assets/imgs/cc_bug_ani.gif" height="60" loading="lazy" width="60"/>
+</div>
+<div class="teaser-list__load-more js-teaser-list__load-more" id="news-list55ace0c7e16b4ba18af76fa6d9df9f5a"></div>
+<div class="l-1col center js-teaser__button" id="button55ace0c7e16b4ba18af76fa6d9df9f5a">
+<a class="button--small load-more js-load-more button--arrow-down" href="#">Show More</a>
+</div>
+</div>
+</section>
+<section class="contact-box-ribbon js-contact-box-ribbon theme-blue-gray-pattern">
+<div class="container content-pad">
+<ul class="contact-box">
+<li class="contact-box__phone">Appointments <a href="tel:8006597822 ">800.659.7822</a></li>
+<li><a class="button--strong button--full button--arrow" href="/departments/heart/appointments-locations">Appointments &amp; Locations</a></li>
+<li><a class="button--secondary button--full button--arrow hero-call-to-action__sticky-hidden" href="/departments/heart/appointments-locations#call">Talk to a Heart Nurse</a></li>
+<li><a class="button--secondary button--full button--arrow hero-call-to-action__sticky-hidden" href="https://my.clevelandclinic.org/webappointment">Request an Appointment</a></li>
+</ul>
+</div>
+</section>
+<section class="footer-social js-footer-social">
+<div class="container">
+<a class="footer-social__link" disablewebedit="True" href="https://www.facebook.com/ClevelandClinic" target="_blank"> <i aria-label="Facebook Icon" class="icon-social-facebook" role="img"></i> <span class="element-invisible">Facebook</span>
+</a>
+<a class="footer-social__link" disablewebedit="True" href="https://twitter.com/clevelandclinic" target="_blank"> <i aria-label="Twitter Icon" class="icon-social-twitter" role="img"></i> <span class="element-invisible">Twitter</span>
+</a>
+<a class="footer-social__link" disablewebedit="True" href="https://www.youtube.com/user/clevelandclinic" target="_blank"> <i aria-label="YouTube Icon" class="icon-social-youtube" role="img"></i> <span class="element-invisible">YouTube</span>
+</a>
+<a class="footer-social__link" disablewebedit="True" href="https://www.instagram.com/clevelandclinic/" target="_blank"> <i aria-label="Instagram Icon" class="icon-social-instagram" role="img"></i> <span class="element-invisible">Instagram</span>
+</a>
+<a class="footer-social__link" disablewebedit="True" href="https://www.linkedin.com/company/cleveland-clinic" target="_blank"> <i aria-label="LinkedIn Icon" class="icon-social-linkedin" role="img"></i> <span class="element-invisible">LinkedIn</span>
+</a>
+<a class="footer-social__link" disablewebedit="True" href="https://www.pinterest.com/clevelandclinic/" target="_blank"> <i aria-label="Pinterest Icon" class="icon-social-pinterest" role="img"></i> <span class="element-invisible">Pinterest</span>
+</a>
+<a class="footer-social__link" disablewebedit="True" href="https://www.snapchat.com/add/clevelandclinic" target="_blank"> <i aria-label="Snapchat Icon" class="icon-social-snapchat" role="img"></i> <span class="element-invisible">Snapchat</span>
+</a> </div>
+</section>
+<footer class="footer js-footer">
+<div class="container content-pad">
+<div class="footer__item l-4col--1">
+<h5 class="footer__title lede">Actions</h5>
+<nav class="footer__nav">
+<a disablewebedit="True" href="/patients/information/access" title="Appointments">Appointments &amp; Access</a><a disablewebedit="True" href="/patients/accepted-insurance" title="Accepted Insurance">Accepted Insurance</a><a disablewebedit="True" href="https://events.clevelandclinic.org" target="_blank">Events Calendar</a><a disablewebedit="True" href="/patients/billing-finance/financial-assistance">Financial Assistance</a><a disablewebedit="True" href="/giving">Give to Cleveland Clinic</a><a disablewebedit="True" href="/patients/billing-finance/payment-options" title="Pay Your Bill">Pay Your Bill Online</a><a disablewebedit="True" href="/professionals/referring">Refer a Patient</a><a disablewebedit="True" href="/about/contact/phone-directory" title="Phone Directory">Phone Directory</a><a disablewebedit="True" href="/online-services/virtual-second-opinions">Virtual Second Opinions</a><a disablewebedit="True" href="/online-services/virtual-visits">Virtual Visits</a> </nav>
+</div>
+<div class="footer__item l-4col--2">
+<h5 class="footer__title lede">Blog, News &amp; Apps</h5>
+<nav class="footer__nav">
+<a disablewebedit="True" href="https://consultqd.clevelandclinic.org" target="_blank" title="Consult QD">Consult QD</a><a disablewebedit="True" href="https://health.clevelandclinic.org" target="_blank" title="Health Essentials">Health Essentials</a><a disablewebedit="True" href="https://newsroom.clevelandclinic.org" target="_blank" title="Newsroom">Newsroom</a><a disablewebedit="True" href="/mobile-apps/myclevelandclinic">MyClevelandClinic</a><a disablewebedit="True" href="/online-services/mychart">MyChart</a> </nav>
+</div>
+<div class="footer__item l-4col--3">
+<h5 class="footer__title lede">About Cleveland Clinic</h5>
+<nav class="footer__nav">
+<a disablewebedit="True" href="/about/history">100 Years of Cleveland Clinic</a><a disablewebedit="True" href="/about">About Us</a><a disablewebedit="True" href="/locations">Locations</a><a disablewebedit="True" href="/departments/patient-experience/depts/quality-patient-safety">Quality &amp; Patient Safety</a><a disablewebedit="True" href="/about/community/diversity">Office of Diversity &amp; Inclusion</a><a disablewebedit="True" href="/departments/patient-experience/depts/office-patient-experience">Patient Experience</a><a disablewebedit="True" href="/research">Research &amp; Innovations</a><a disablewebedit="True" href="/about/community">Community Commitment</a><a disablewebedit="True" href="https://jobs.clevelandclinic.org/" target="_blank" title="Careers">Careers</a><a disablewebedit="True" href="/about/for-employees">For Employees</a><a disablewebedit="True" href="/professionals">Resources for Medical Professionals</a> </nav>
+</div>
+<div class="footer__item l-4col--4">
+<h5 class="footer__title lede">Site Information &amp; Policies</h5>
+<nav class="footer__nav">
+<a disablewebedit="True" href="https://my.clevelandclinic.org/webcontact/webmail" title="Send Us Feedback">Send Us Feedback</a><a disablewebedit="True" href="/about/website/site-map">Site Map</a><a disablewebedit="True" href="/about/website">About this Website</a><a disablewebedit="True" href="/about/website/reprints-licensing">Copyright, Reprint &amp; Licensing</a><a disablewebedit="True" href="/about/website/terms-of-use">Website Terms of Use</a><a disablewebedit="True" href="/about/website/privacy-security">Privacy Policy</a><a disablewebedit="True" href="/about/website/privacy-practices">Notice of Privacy Practices</a><a disablewebedit="True" href="/about/website/non-discrimination-notice">Non-Discrimination Notice</a> </nav>
+</div>
+</div>
+<div class="container">
+<div class="l-1col">
+<div class="footer__text" dir="ltr">
+9500 Euclid Avenue, Cleveland, Ohio 44195 | <a href="tel:800.223.2273">800.223.2273</a> | © 2023 Cleveland Clinic. All Rights Reserved.
+</div>
+</div>
+</div>
+</footer>
+</div>
+<a class="back-to-top js-back-to-top" href="#"><img alt="Back to Top" height="60" src="/assets/imgs/back-to-top-button.svg" width="60"/></a>
+<script type="text/javascript">
+                // Variables for script config
+                var articleId = "23074";
+                var adUnits = [];
+                if (!true) {
+                    adUnits = ["cchl", ""];
+                }
+                else {
+                    adUnits = ["cchl", "cardio", "general", ""].filter(function (adCategory) { return adCategory; });
+                }
+
+                var adUnitPath = adUnits.join("/");
+                var aimActive = true;
+                var userIsInEU = false;
+
+                // Set devices based on window width
+                var windowWidth = window.innerWidth;
+                var deviceType = (windowWidth >= 1200) ? "desktop" : "mobile";
+                var mobileType = undefined;
+
+                if (deviceType === "mobile") {
+                    mobileType = (windowWidth >= 600) ? "tab" : "sph";
+                }
+
+                // Determine if user is in the EU
+                var userTimeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+                userIsInEU = checkEUTimezone(userTimeZone);
+
+                if (userIsInEU) {
+                    aimActive = false;
+                }
+
+                window.TCAP = window.TCAP || {};
+
+                // EDH Ad script config
+                window.TCAP.adConfig = {
+                    contentType: 'article',
+                    adUnit: adUnitPath,
+                    deviceType: deviceType,
+                    contentTypeSlots: {
+                        desktop: {
+                            presentSlots: [
+                                'billboard_300x250',
+                                'billboard2_300x250',
+                                'billboard3_300x250',
+                                'billboard4_300x250',
+                                'billboard5_300x250',
+                                'leaderboard_728x90',
+                                'leaderboard2_728x90'
+                            ]
+                        },
+                        mobile: {
+                            presentSlots: [
+                                'adhesive_320x50_mobile',
+                                'billboard_300x250_mobile',
+                                'billboard2_300x250_mobile',
+                                'billboard3_300x250_mobile'
+                            ]
+                        }
+                    },
+                    customParams: {
+                        mdv: mobileType,
+                        ugc: '0',
+                        page: articleId
+                    },
+                    aim_active: aimActive
+                }
+
+                // Compares EU timezones with the timezone provided and returns a boolean
+                function checkEUTimezone(timezone) {
+                    switch (timezone) {
+                        case 'Europe/Vienna':
+                        case 'Europe/Brussels':
+                        case 'Europe/Sofia':
+                        case 'Europe/Zagreb':
+                        case 'Asia/Famagusta':
+                        case 'Asia/Nicosia':
+                        case 'Europe/Prague':
+                        case 'Europe/Copenhagen':
+                        case 'Europe/Tallinn':
+                        case 'Europe/Helsinki':
+                        case 'Europe/Paris':
+                        case 'Europe/Berlin':
+                        case 'Europe/Busingen':
+                        case 'Europe/Athens':
+                        case 'Europe/Budapest':
+                        case 'Europe/Dublin':
+                        case 'Europe/Rome':
+                        case 'Europe/Riga':
+                        case 'Europe/Vilnius':
+                        case 'Europe/Luxembourg':
+                        case 'Europe/Malta':
+                        case 'Europe/Amsterdam':
+                        case 'Europe/Warsaw':
+                        case 'Atlantic/Azores':
+                        case 'Atlantic/Madeira':
+                        case 'Europe/Lisbon':
+                        case 'Europe/Bucharest':
+                        case 'Europe/Bratislava':
+                        case 'Europe/Ljubljana':
+                        case 'Africa/Ceuta':
+                        case 'Atlantic/Canary':
+                        case 'Europe/Madrid':
+                        case 'Europe/Stockholm':
+                        case 'Europe/London':
+                        case 'Europe/Belfast':
+                            return true;
+                        default:
+                            return false;
+                    }
+                }
+            </script>
+<script type="text/javascript">
+                var MEDICAL_PERSONNEL_INDEX_NAME_DEFAULT = 'medical_personnel_prod';
+                var HEALTH_INDEX_NAME_DEFAULT = 'hic_prod';
+                var LOCATIONS_INDEX_NAME_DEFAULT = 'locations_prod';
+            </script>
+<script id="js-jquery" src="https://code.jquery.com/jquery-3.0.0.min.js"></script>
+<script>
+                var notificationBannerCookieName = "notification_banner3B8B30F68053F890375A16138674C35E";
+            </script>
+<script>
+            jQuery(document).ready(function () {
+                jQuery(document.body).removeClass('home');
+            });
+        </script>
+<script id="news-template55ace0c7e16b4ba18af76fa6d9df9f5a" type="text/template">
+                {{#posts}}
+                <div class="teaser__item js-teaser__item l-4col">
+                    <article class="teaser teaser--news teaser--image">
+                        <a href="{{&link}}" class="teaser__image-link">
+                            <div class="teaser__image-container">
+                                {{#mediumImage}}
+                                <img class="teaser__image" alt="{{&title}}" src="{{&mediumImage}}">
+                                {{/mediumImage}}
+                                {{^mediumImage}}
+                                <img class="teaser__image" alt="{{&title}}" src="/assets/imgs/wordpress-placeholder.jpg">
+                                {{/mediumImage}}
+                            </div>
+                        </a>
+                        <h5 class="teaser__title">
+                            <a href="{{&link}}">{{&title}}</a>
+                        </h5>
+                    </article>
+                </div>
+                {{/posts}}
+            </script>
+<script>
+                    var ccWp=function(t){var e={};function r(n){if(e[n])return e[n].exports;var o=e[n]={i:n,l:!1,exports:{}};return t[n].call(o.exports,o,o.exports,r),o.l=!0,o.exports}return r.m=t,r.c=e,r.d=function(t,e,n){r.o(t,e)||Object.defineProperty(t,e,{configurable:!1,enumerable:!0,get:n})},r.r=function(t){Object.defineProperty(t,"__esModule",{value:!0})},r.n=function(t){var e=t&&t.__esModule?function(){return t.default}:function(){return t};return r.d(e,"a",e),e},r.o=function(t,e){return Object.prototype.hasOwnProperty.call(t,e)},r.p="",r(r.s=5)}([function(t,e,r){"use strict";var n=Object.prototype.toString;function o(t){return"[object Array]"===n.call(t)}function i(t){return null!==t&&"object"==typeof t}function s(t){return"[object Function]"===n.call(t)}function u(t,e){if(null!==t&&void 0!==t)if("object"==typeof t||o(t)||(t=[t]),o(t))for(var r=0,n=t.length;r<n;r++)e.call(null,t[r],r,t);else for(var i in t)t.hasOwnProperty(i)&&e.call(null,t[i],i,t)}t.exports={isArray:o,isArrayBuffer:function(t){return"[object ArrayBuffer]"===n.call(t)},isFormData:function(t){return"undefined"!=typeof FormData&&t instanceof FormData},isArrayBufferView:function(t){return"undefined"!=typeof ArrayBuffer&&ArrayBuffer.isView?ArrayBuffer.isView(t):t&&t.buffer&&t.buffer instanceof ArrayBuffer},isString:function(t){return"string"==typeof t},isNumber:function(t){return"number"==typeof t},isObject:i,isUndefined:function(t){return void 0===t},isDate:function(t){return"[object Date]"===n.call(t)},isFile:function(t){return"[object File]"===n.call(t)},isBlob:function(t){return"[object Blob]"===n.call(t)},isFunction:s,isStream:function(t){return i(t)&&s(t.pipe)},isStandardBrowserEnv:function(){return"undefined"!=typeof window&&"undefined"!=typeof document&&"function"==typeof document.createElement},forEach:u,merge:function t(){var e={};function r(r,n){"object"==typeof e[n]&&"object"==typeof r?e[n]=t(e[n],r):e[n]=r}for(var n=0,o=arguments.length;n<o;n++)u(arguments[n],r);return e},trim:function(t){return t.replace(/^\s*/,"").replace(/\s*$/,"")}}},function(t,e,r){t.exports=r(8).Promise},function(t,e){var r,n,o=t.exports={};function i(){throw new Error("setTimeout has not been defined")}function s(){throw new Error("clearTimeout has not been defined")}function u(t){if(r===setTimeout)return setTimeout(t,0);if((r===i||!r)&&setTimeout)return r=setTimeout,setTimeout(t,0);try{return r(t,0)}catch(e){try{return r.call(null,t,0)}catch(e){return r.call(this,t,0)}}}!function(){try{r="function"==typeof setTimeout?setTimeout:i}catch(t){r=i}try{n="function"==typeof clearTimeout?clearTimeout:s}catch(t){n=s}}();var a,c=[],f=!1,p=-1;function l(){f&&a&&(f=!1,a.length?c=a.concat(c):p=-1,c.length&&h())}function h(){if(!f){var t=u(l);f=!0;for(var e=c.length;e;){for(a=c,c=[];++p<e;)a&&a[p].run();p=-1,e=c.length}a=null,f=!1,function(t){if(n===clearTimeout)return clearTimeout(t);if((n===s||!n)&&clearTimeout)return n=clearTimeout,clearTimeout(t);try{n(t)}catch(e){try{return n.call(null,t)}catch(e){return n.call(this,t)}}}(t)}}function d(t,e){this.fun=t,this.array=e}function y(){}o.nextTick=function(t){var e=new Array(arguments.length-1);if(arguments.length>1)for(var r=1;r<arguments.length;r++)e[r-1]=arguments[r];c.push(new d(t,e)),1!==c.length||f||u(h)},d.prototype.run=function(){this.fun.apply(null,this.array)},o.title="browser",o.browser=!0,o.env={},o.argv=[],o.version="",o.versions={},o.on=y,o.addListener=y,o.once=y,o.off=y,o.removeListener=y,o.removeAllListeners=y,o.emit=y,o.prependListener=y,o.prependOnceListener=y,o.listeners=function(t){return[]},o.binding=function(t){throw new Error("process.binding is not supported")},o.cwd=function(){return"/"},o.chdir=function(t){throw new Error("process.chdir is not supported")},o.umask=function(){return 0}},function(t,e,r){"use strict";var n=r(0),o=r(13),i=r(14),s=r(4),u=r(15),a="undefined"!=typeof window&&window.btoa||r(16),c=r(17);t.exports=function(t,e,f){var p=f.data,l=f.headers;n.isFormData(p)&&delete l["Content-Type"];var h=new XMLHttpRequest,d="onreadystatechange",y=!1;if("undefined"==typeof window||!window.XDomainRequest||"withCredentials"in h||u(f.url)||(h=new window.XDomainRequest,d="onload",y=!0,h.onprogress=function(){},h.ontimeout=function(){}),f.auth){var v=f.auth.username||"",m=f.auth.password||"";l.Authorization="Basic "+a(v+":"+m)}if(h.open(f.method.toUpperCase(),o(f.url,f.params,f.paramsSerializer),!0),h.timeout=f.timeout,h[d]=function(){if(h&&(4===h.readyState||y)&&0!==h.status){var r="getAllResponseHeaders"in h?i(h.getAllResponseHeaders()):null,n=f.responseType&&"text"!==f.responseType?h.response:h.responseText,o={data:s(n,r,f.transformResponse),status:1223===h.status?204:h.status,statusText:1223===h.status?"No Content":h.statusText,headers:r,config:f,request:h};c(t,e,o),h=null}},h.onerror=function(){e(new Error("Network Error")),h=null},h.ontimeout=function(){var t=new Error("timeout of "+f.timeout+"ms exceeded");t.timeout=f.timeout,t.code="ECONNABORTED",e(t),h=null},n.isStandardBrowserEnv()){var w=r(18),g=f.withCredentials||u(f.url)?w.read(f.xsrfCookieName):void 0;g&&(l[f.xsrfHeaderName]=g)}if("setRequestHeader"in h&&n.forEach(l,function(t,e){void 0===p&&"content-type"===e.toLowerCase()?delete l[e]:h.setRequestHeader(e,t)}),f.withCredentials&&(h.withCredentials=!0),f.responseType)try{h.responseType=f.responseType}catch(t){if("json"!==h.responseType)throw t}f.progress&&("post"===f.method||"put"===f.method?h.upload.addEventListener("progress",f.progress):"get"===f.method&&h.addEventListener("progress",f.progress)),void 0===p&&(p=null),h.send(p)}},function(t,e,r){"use strict";var n=r(0);t.exports=function(t,e,r){return n.forEach(r,function(r){t=r(t,e)}),t}},function(t,e,r){function n(t){"@babel/helpers - typeof";return(n="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&"function"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?"symbol":typeof t})(t)}var o=r(6),i=r(24),s=r(25),u=r(27);t.exports=function(t,e,r){if(e&&"string"!=typeof e)throw new Error("ccWp: templates must be a string");if(!i(t))throw new Error("Whoops! ValidateOptions error!");var a=[],c=t.endpoints.length;function f(n){if(""!==n&&n.data.forEach(function(t){a[a.length]=t}),0==--c){if(a.sort(function(t,e){return t.date>e.date?-1:1}),a.length>0){if(a.length<=4){var o=t.target.replace("news-list","button");o!==t.target&&jQuery(o).hide()}var i=u(a,8);s(i,t.target,e)}else{var f=t.target.replace("list","section");jQuery(f).hide()}r()}}t.endpoints.forEach(function(t){var e=t.url+"/wp-json/wp/v2/"+t.type+"?_embed";if(t.postCount&&(e+="&per_page="+t.postCount),t.filters&&"object"==n(t.filters))for(var r in t.filters)switch(r){case"physicians-NPI":case"institutes-objectID":e+="&"+r+"="+t.filters[r];break;default:e+="&"+r+"="+t.filters[r]}o.get(e).then(function(t){f(t)}).catch(function(t){t instanceof Error?console.log("ccWp: Error with ajax call",t.message):console.log("request problem, response is: "+t.status),f("")})})}},function(t,e,r){t.exports=r(7)},function(t,e,r){"use strict";(function(e){var n=r(11),o=r(0),i=r(12),s=r(19),u=r(20),a=r(21),c=r(22),f=r(4);function p(t){this.defaults=o.merge({},t),this.interceptors={request:new s,response:new s}}p.prototype.request=function(t){"string"==typeof t&&(t=o.merge({url:arguments[0]},arguments[1])),(t=o.merge(n,this.defaults,{method:"get"},t)).baseURL&&!u(t.url)&&(t.url=a(t.baseURL,t.url)),t.withCredentials=t.withCredentials||this.defaults.withCredentials,t.data=f(t.data,t.headers,t.transformRequest),t.headers=o.merge(t.headers.common||{},t.headers[t.method]||{},t.headers||{}),o.forEach(["delete","get","head","post","put","patch","common"],function(e){delete t.headers[e]});var r=[i,void 0],s=e.resolve(t);for(this.interceptors.request.forEach(function(t){r.unshift(t.fulfilled,t.rejected)}),this.interceptors.response.forEach(function(t){r.push(t.fulfilled,t.rejected)});r.length;)s=s.then(r.shift(),r.shift());return s};var l=new p(n),h=t.exports=c(p.prototype.request,l);t.exports.Axios=p,h.defaults=l.defaults,h.interceptors=l.interceptors,h.create=function(t){return new p(t)},h.all=function(t){return e.all(t)},h.spread=r(23),o.forEach(["delete","get","head"],function(t){p.prototype[t]=function(e,r){return this.request(o.merge(r||{},{method:t,url:e}))},h[t]=c(p.prototype[t],l)}),o.forEach(["post","put","patch"],function(t){p.prototype[t]=function(e,r,n){return this.request(o.merge(n||{},{method:t,url:e,data:r}))},h[t]=c(p.prototype[t],l)})}).call(this,r(1))},function(t,e,r){(function(e,n){
+/*!
+ * @overview es6-promise - a tiny implementation of Promises/A+.
+ * @copyright Copyright (c) 2014 Yehuda Katz, Tom Dale, Stefan Penner and contributors (Conversion to ES6 API by Jake Archibald)
+ * @license   Licensed under MIT license
+ *            See https://raw.githubusercontent.com/stefanpenner/es6-promise/master/LICENSE
+ * @version   3.3.1
+ */
+!function(e,r){t.exports=r()}(0,function(){"use strict";function t(t){return"function"==typeof t}var o=Array.isArray?Array.isArray:function(t){return"[object Array]"===Object.prototype.toString.call(t)},i=0,s=void 0,u=void 0,a=function(t,e){y[i]=t,y[i+1]=e,2===(i+=2)&&(u?u(v):m())};var c="undefined"!=typeof window?window:void 0,f=c||{},p=f.MutationObserver||f.WebKitMutationObserver,l="undefined"==typeof self&&void 0!==e&&"[object process]"==={}.toString.call(e),h="undefined"!=typeof Uint8ClampedArray&&"undefined"!=typeof importScripts&&"undefined"!=typeof MessageChannel;function d(){var t=setTimeout;return function(){return t(v,1)}}var y=new Array(1e3);function v(){for(var t=0;t<i;t+=2){(0,y[t])(y[t+1]),y[t]=void 0,y[t+1]=void 0}i=0}var m=void 0;function w(t,e){var r=arguments,n=this,o=new this.constructor(E);void 0===o[b]&&L(o);var i=n._state;return i?function(){var t=r[i-1];a(function(){return q(i,o,t,n._result)})}():W(n,o,t,e),o}function g(t){if(t&&"object"==typeof t&&t.constructor===this)return t;var e=new this(E);return C(e,t),e}m=l?function(){return e.nextTick(v)}:p?function(){var t=0,e=new p(v),r=document.createTextNode("");return e.observe(r,{characterData:!0}),function(){r.data=t=++t%2}}():h?function(){var t=new MessageChannel;return t.port1.onmessage=v,function(){return t.port2.postMessage(0)}}():void 0===c?function(){try{var t=r(10);return s=t.runOnLoop||t.runOnContext,function(){s(v)}}catch(t){return d()}}():d();var b=Math.random().toString(36).substring(16);function E(){}var x=void 0,_=1,A=2,S=new U;function T(t){try{return t.then}catch(t){return S.error=t,S}}function j(e,r,n){r.constructor===e.constructor&&n===w&&r.constructor.resolve===g?function(t,e){e._state===_?O(t,e._result):e._state===A?R(t,e._result):W(e,void 0,function(e){return C(t,e)},function(e){return R(t,e)})}(e,r):n===S?R(e,S.error):void 0===n?O(e,r):t(n)?function(t,e,r){a(function(t){var n=!1,o=function(t,e,r,n){try{t.call(e,r,n)}catch(t){return t}}(r,e,function(r){n||(n=!0,e!==r?C(t,r):O(t,r))},function(e){n||(n=!0,R(t,e))},t._label);!n&&o&&(n=!0,R(t,o))},t)}(e,r,n):O(e,r)}function C(t,e){t===e?R(t,new TypeError("You cannot resolve a promise with itself")):!function(t){return"function"==typeof t||"object"==typeof t&&null!==t}(e)?O(t,e):j(t,e,T(e))}function k(t){t._onerror&&t._onerror(t._result),B(t)}function O(t,e){t._state===x&&(t._result=e,t._state=_,0!==t._subscribers.length&&a(B,t))}function R(t,e){t._state===x&&(t._state=A,t._result=e,a(k,t))}function W(t,e,r,n){var o=t._subscribers,i=o.length;t._onerror=null,o[i]=e,o[i+_]=r,o[i+A]=n,0===i&&t._state&&a(B,t)}function B(t){var e=t._subscribers,r=t._state;if(0!==e.length){for(var n=void 0,o=void 0,i=t._result,s=0;s<e.length;s+=3)n=e[s],o=e[s+r],n?q(r,n,o,i):o(i);t._subscribers.length=0}}function U(){this.error=null}var D=new U;function q(e,r,n,o){var i=t(n),s=void 0,u=void 0,a=void 0,c=void 0;if(i){if((s=function(t,e){try{return t(e)}catch(t){return D.error=t,D}}(n,o))===D?(c=!0,u=s.error,s=null):a=!0,r===s)return void R(r,new TypeError("A promises callback cannot return that same promise."))}else s=o,a=!0;r._state!==x||(i&&a?C(r,s):c?R(r,u):e===_?O(r,s):e===A&&R(r,s))}var I=0;function L(t){t[b]=I++,t._state=void 0,t._result=void 0,t._subscribers=[]}function N(t,e){this._instanceConstructor=t,this.promise=new t(E),this.promise[b]||L(this.promise),o(e)?(this._input=e,this.length=e.length,this._remaining=e.length,this._result=new Array(this.length),0===this.length?O(this.promise,this._result):(this.length=this.length||0,this._enumerate(),0===this._remaining&&O(this.promise,this._result))):R(this.promise,new Error("Array Methods must be provided an Array"))}function F(t){this[b]=I++,this._result=this._state=void 0,this._subscribers=[],E!==t&&("function"!=typeof t&&function(){throw new TypeError("You must pass a resolver function as the first argument to the promise constructor")}(),this instanceof F?function(t,e){try{e(function(e){C(t,e)},function(e){R(t,e)})}catch(e){R(t,e)}}(this,t):function(){throw new TypeError("Failed to construct 'Promise': Please use the 'new' operator, this object constructor cannot be called as a function.")}())}function P(){var t=void 0;if(void 0!==n)t=n;else if("undefined"!=typeof self)t=self;else try{t=Function("return this")()}catch(t){throw new Error("polyfill failed because global object is unavailable in this environment")}var e=t.Promise;if(e){var r=null;try{r=Object.prototype.toString.call(e.resolve())}catch(t){}if("[object Promise]"===r&&!e.cast)return}t.Promise=F}return N.prototype._enumerate=function(){for(var t=this.length,e=this._input,r=0;this._state===x&&r<t;r++)this._eachEntry(e[r],r)},N.prototype._eachEntry=function(t,e){var r=this._instanceConstructor,n=r.resolve;if(n===g){var o=T(t);if(o===w&&t._state!==x)this._settledAt(t._state,e,t._result);else if("function"!=typeof o)this._remaining--,this._result[e]=t;else if(r===F){var i=new r(E);j(i,t,o),this._willSettleAt(i,e)}else this._willSettleAt(new r(function(e){return e(t)}),e)}else this._willSettleAt(n(t),e)},N.prototype._settledAt=function(t,e,r){var n=this.promise;n._state===x&&(this._remaining--,t===A?R(n,r):this._result[e]=r),0===this._remaining&&O(n,this._result)},N.prototype._willSettleAt=function(t,e){var r=this;W(t,void 0,function(t){return r._settledAt(_,e,t)},function(t){return r._settledAt(A,e,t)})},F.all=function(t){return new N(this,t).promise},F.race=function(t){var e=this;return o(t)?new e(function(r,n){for(var o=t.length,i=0;i<o;i++)e.resolve(t[i]).then(r,n)}):new e(function(t,e){return e(new TypeError("You must pass an array to race."))})},F.resolve=g,F.reject=function(t){var e=new this(E);return R(e,t),e},F._setScheduler=function(t){u=t},F._setAsap=function(t){a=t},F._asap=a,F.prototype={constructor:F,then:w,catch:function(t){return this.then(null,t)}},P(),F.polyfill=P,F.Promise=F,F})}).call(this,r(2),r(9))},function(t,e){var r;r=function(){return this}();try{r=r||Function("return this")()||(0,eval)("this")}catch(t){"object"==typeof window&&(r=window)}t.exports=r},function(t,e){},function(t,e,r){"use strict";var n=r(0),o=/^\)\]\}',?\n/,i={"Content-Type":"application/x-www-form-urlencoded"};t.exports={transformRequest:[function(t,e){return n.isFormData(t)||n.isArrayBuffer(t)||n.isStream(t)?t:n.isArrayBufferView(t)?t.buffer:!n.isObject(t)||n.isFile(t)||n.isBlob(t)?t:(n.isUndefined(e)||(n.forEach(e,function(t,r){"content-type"===r.toLowerCase()&&(e["Content-Type"]=t)}),n.isUndefined(e["Content-Type"])&&(e["Content-Type"]="application/json;charset=utf-8")),JSON.stringify(t))}],transformResponse:[function(t){if("string"==typeof t){t=t.replace(o,"");try{t=JSON.parse(t)}catch(t){}}return t}],headers:{common:{Accept:"application/json, text/plain, */*"},patch:n.merge(i),post:n.merge(i),put:n.merge(i)},timeout:0,xsrfCookieName:"XSRF-TOKEN",xsrfHeaderName:"X-XSRF-TOKEN",maxContentLength:-1,validateStatus:function(t){return t>=200&&t<300}}},function(t,e,r){"use strict";(function(e,n){t.exports=function(t){return new e(function(e,o){try{var i;"function"==typeof t.adapter?i=t.adapter:"undefined"!=typeof XMLHttpRequest?i=r(3):void 0!==n&&(i=r(3)),"function"==typeof i&&i(e,o,t)}catch(t){o(t)}})}}).call(this,r(1),r(2))},function(t,e,r){"use strict";var n=r(0);function o(t){return encodeURIComponent(t).replace(/%40/gi,"@").replace(/%3A/gi,":").replace(/%24/g,"$").replace(/%2C/gi,",").replace(/%20/g,"+").replace(/%5B/gi,"[").replace(/%5D/gi,"]")}t.exports=function(t,e,r){if(!e)return t;var i;if(r)i=r(e);else{var s=[];n.forEach(e,function(t,e){null!==t&&void 0!==t&&(n.isArray(t)&&(e+="[]"),n.isArray(t)||(t=[t]),n.forEach(t,function(t){n.isDate(t)?t=t.toISOString():n.isObject(t)&&(t=JSON.stringify(t)),s.push(o(e)+"="+o(t))}))}),i=s.join("&")}return i&&(t+=(-1===t.indexOf("?")?"?":"&")+i),t}},function(t,e,r){"use strict";var n=r(0);t.exports=function(t){var e,r,o,i={};return t?(n.forEach(t.split("\n"),function(t){o=t.indexOf(":"),e=n.trim(t.substr(0,o)).toLowerCase(),r=n.trim(t.substr(o+1)),e&&(i[e]=i[e]?i[e]+", "+r:r)}),i):i}},function(t,e,r){"use strict";var n=r(0);t.exports=n.isStandardBrowserEnv()?function(){var t,e=/(msie|trident)/i.test(navigator.userAgent),r=document.createElement("a");function o(t){var n=t;return e&&(r.setAttribute("href",n),n=r.href),r.setAttribute("href",n),{href:r.href,protocol:r.protocol?r.protocol.replace(/:$/,""):"",host:r.host,search:r.search?r.search.replace(/^\?/,""):"",hash:r.hash?r.hash.replace(/^#/,""):"",hostname:r.hostname,port:r.port,pathname:"/"===r.pathname.charAt(0)?r.pathname:"/"+r.pathname}}return t=o(window.location.href),function(e){var r=n.isString(e)?o(e):e;return r.protocol===t.protocol&&r.host===t.host}}():function(){return!0}},function(t,e,r){"use strict";var n="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";function o(){this.message="String contains an invalid character"}o.prototype=new Error,o.prototype.code=5,o.prototype.name="InvalidCharacterError",t.exports=function(t){for(var e,r,i=String(t),s="",u=0,a=n;i.charAt(0|u)||(a="=",u%1);s+=a.charAt(63&e>>8-u%1*8)){if((r=i.charCodeAt(u+=.75))>255)throw new o;e=e<<8|r}return s}},function(t,e,r){"use strict";t.exports=function(t,e,r){var n=r.config.validateStatus;r.status&&n&&!n(r.status)?e(r):t(r)}},function(t,e,r){"use strict";var n=r(0);t.exports=n.isStandardBrowserEnv()?{write:function(t,e,r,o,i,s){var u=[];u.push(t+"="+encodeURIComponent(e)),n.isNumber(r)&&u.push("expires="+new Date(r).toGMTString()),n.isString(o)&&u.push("path="+o),n.isString(i)&&u.push("domain="+i),!0===s&&u.push("secure"),document.cookie=u.join("; ")},read:function(t){var e=document.cookie.match(new RegExp("(^|;\\s*)("+t+")=([^;]*)"));return e?decodeURIComponent(e[3]):null},remove:function(t){this.write(t,"",Date.now()-864e5)}}:{write:function(){},read:function(){return null},remove:function(){}}},function(t,e,r){"use strict";var n=r(0);function o(){this.handlers=[]}o.prototype.use=function(t,e){return this.handlers.push({fulfilled:t,rejected:e}),this.handlers.length-1},o.prototype.eject=function(t){this.handlers[t]&&(this.handlers[t]=null)},o.prototype.forEach=function(t){n.forEach(this.handlers,function(e){null!==e&&t(e)})},t.exports=o},function(t,e,r){"use strict";t.exports=function(t){return/^([a-z][a-z\d\+\-\.]*:)?\/\//i.test(t)}},function(t,e,r){"use strict";t.exports=function(t,e){return t.replace(/\/+$/,"")+"/"+e.replace(/^\/+/,"")}},function(t,e,r){"use strict";t.exports=function(t,e){return function(){for(var r=new Array(arguments.length),n=0;n<r.length;n++)r[n]=arguments[n];return t.apply(e,r)}}},function(t,e,r){"use strict";t.exports=function(t){return function(e){return t.apply(null,e)}}},function(t,e){function r(t){"@babel/helpers - typeof";return(r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&"function"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?"symbol":typeof t})(t)}t.exports=function(t){if(void 0===t||null===t)return!1;if(null===t.target||void 0===t.target)throw new Error("ccWp: options.target is required");if("#"!==t.target.charAt(0))throw new Error("ccWp: options.target must identify an ID with a #");if("object"!=r(t.endpoints)||!Array.isArray(t.endpoints)||0==t.endpoints.length)throw new Error("ccWp: options.endpoints must be a non-empty array of objects.");return t.endpoints.forEach(function(t){if("string"!=typeof t.url&&""!==t.url)throw new Error("ccWp: endpoint must include a target url");if(!/^(?:(?:(?:https?):)?\/\/)(?:\S+(?::\S*)?@)?(?:(?!(?:10|127)(?:\.\d{1,3}){3})(?!(?:169\.254|192\.168)(?:\.\d{1,3}){2})(?!172\.(?:1[6-9]|2\d|3[0-1])(?:\.\d{1,3}){2})(?:[1-9]\d?|1\d\d|2[01]\d|22[0-3])(?:\.(?:1?\d{1,2}|2[0-4]\d|25[0-5])){2}(?:\.(?:[1-9]\d?|1\d\d|2[0-4]\d|25[0-4]))|(?:(?:[a-z\u00a1-\uffff0-9]-*)*[a-z\u00a1-\uffff0-9]+)(?:\.(?:[a-z\u00a1-\uffff0-9]-*)*[a-z\u00a1-\uffff0-9]+)*(?:\.(?:[a-z\u00a1-\uffff]{2,})).?)(?::\d{2,5})?(?:[/?#]\S*)?$/i.test(t.url))throw new Error("ccWp: endpoint must include a target url");if(t.type&&"string"!=typeof t.type)throw new Error("ccWp: endpoint must include a valid type");if(t.type&&-1===["posts","pages","categories","authors"].indexOf(t.type))throw new Error("ccWp: endpoint must include a valid type");if(t.postCount&&"number"!=typeof t.postCount)throw new Error("ccWp: endpoint.postCount must be a number from 1 to 100");if(t.postCount&&(t.postCount<0||t.postCount>100))throw new Error("ccWp: endpoint.postCount must be a number from 1 to 100")}),t}},function(t,e,r){var n=r(26);t.exports=function(t,e,r){var o="<div class='testList'>{{#posts}}";if(o+="<a href='{{&link}}'><h1>{{title}}</h1></a>",o+="<p>{{excerpt}}</p>",o+="{{/posts}}</div>",!t)throw new Error("ccWp: no data provided; can't render without data!");if(Array.isArray(t)&&0===t.length)throw new Error("ccWp: data must an array with at least one element!");if(r&&"string"!=typeof r)throw new Error("ccWp: templates must be a string");if(r||(r=o),null===e||void 0===e)throw new Error("ccWp: a target is required to render the data to the page");if("#"!==e.charAt(0))throw new Error("ccWp: render target must identify an ID with a #");if("#"===e)throw new Error("ccWp: hey, you need more than an octothorpe to render to a page");var i=document.getElementById(e.substring(1));if(void 0===i||null===i)throw new Error("ccWp: looks like there is no ID for the content...check the page?");var s=n.render(r,t);return document.getElementById(e.substring(1)).innerHTML=s,!0}},function(t,e,r){var n,o,i;
+/*!
+ * mustache.js - Logic-less {{mustache}} templates with JavaScript
+ * http://github.com/janl/mustache.js
+ */
+/*!
+ * mustache.js - Logic-less {{mustache}} templates with JavaScript
+ * http://github.com/janl/mustache.js
+ */
+!function(r,s){"object"==typeof e&&e&&"string"!=typeof e.nodeName?s(e):(o=[e],void 0===(i="function"==typeof(n=s)?n.apply(e,o):n)||(t.exports=i))}(0,function(t){var e=Object.prototype.toString,r=Array.isArray||function(t){return"[object Array]"===e.call(t)};function n(t){return"function"==typeof t}function o(t){return t.replace(/[\-\[\]{}()*+?.,\\\^$|#\s]/g,"\\$&")}function i(t,e){return null!=t&&"object"==typeof t&&e in t}var s=RegExp.prototype.test;var u=/\S/;function a(t){return!function(t,e){return s.call(t,e)}(u,t)}var c={"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;","/":"&#x2F;","`":"&#x60;","=":"&#x3D;"};var f=/\s*/,p=/\s+/,l=/\s*=/,h=/\s*\}/,d=/#|\^|\/|>|\{|&|=|!/;function y(t){this.string=t,this.tail=t,this.pos=0}function v(t,e){this.view=t,this.cache={".":this.view},this.parent=e}function m(){this.cache={}}y.prototype.eos=function(){return""===this.tail},y.prototype.scan=function(t){var e=this.tail.match(t);if(!e||0!==e.index)return"";var r=e[0];return this.tail=this.tail.substring(r.length),this.pos+=r.length,r},y.prototype.scanUntil=function(t){var e,r=this.tail.search(t);switch(r){case-1:e=this.tail,this.tail="";break;case 0:e="";break;default:e=this.tail.substring(0,r),this.tail=this.tail.substring(r)}return this.pos+=e.length,e},v.prototype.push=function(t){return new v(t,this)},v.prototype.lookup=function(t){var e,r=this.cache;if(r.hasOwnProperty(t))e=r[t];else{for(var o,s,u=this,a=!1;u;){if(t.indexOf(".")>0)for(e=u.view,o=t.split("."),s=0;null!=e&&s<o.length;)s===o.length-1&&(a=i(e,o[s])),e=e[o[s++]];else e=u.view[t],a=i(u.view,t);if(a)break;u=u.parent}r[t]=e}return n(e)&&(e=e.call(this.view)),e},m.prototype.clearCache=function(){this.cache={}},m.prototype.parse=function(e,n){var i=this.cache,s=i[e];return null==s&&(s=i[e]=function(e,n){if(!e)return[];var i,s,u,c=[],v=[],m=[],w=!1,g=!1;function b(){if(w&&!g)for(;m.length;)delete v[m.pop()];else m=[];w=!1,g=!1}function E(t){if("string"==typeof t&&(t=t.split(p,2)),!r(t)||2!==t.length)throw new Error("Invalid tags: "+t);i=new RegExp(o(t[0])+"\\s*"),s=new RegExp("\\s*"+o(t[1])),u=new RegExp("\\s*"+o("}"+t[1]))}E(n||t.tags);for(var x,_,A,S,T,j,C=new y(e);!C.eos();){if(x=C.pos,A=C.scanUntil(i))for(var k=0,O=A.length;k<O;++k)a(S=A.charAt(k))?m.push(v.length):g=!0,v.push(["text",S,x,x+1]),x+=1,"\n"===S&&b();if(!C.scan(i))break;if(w=!0,_=C.scan(d)||"name",C.scan(f),"="===_?(A=C.scanUntil(l),C.scan(l),C.scanUntil(s)):"{"===_?(A=C.scanUntil(u),C.scan(h),C.scanUntil(s),_="&"):A=C.scanUntil(s),!C.scan(s))throw new Error("Unclosed tag at "+C.pos);if(T=[_,A,x,C.pos],v.push(T),"#"===_||"^"===_)c.push(T);else if("/"===_){if(!(j=c.pop()))throw new Error('Unopened section "'+A+'" at '+x);if(j[1]!==A)throw new Error('Unclosed section "'+j[1]+'" at '+x)}else"name"===_||"{"===_||"&"===_?g=!0:"="===_&&E(A)}if(j=c.pop())throw new Error('Unclosed section "'+j[1]+'" at '+C.pos);return function(t){for(var e,r=[],n=r,o=[],i=0,s=t.length;i<s;++i)switch((e=t[i])[0]){case"#":case"^":n.push(e),o.push(e),n=e[4]=[];break;case"/":o.pop()[5]=e[2],n=o.length>0?o[o.length-1][4]:r;break;default:n.push(e)}return r}(function(t){for(var e,r,n=[],o=0,i=t.length;o<i;++o)(e=t[o])&&("text"===e[0]&&r&&"text"===r[0]?(r[1]+=e[1],r[3]=e[3]):(n.push(e),r=e));return n}(v))}(e,n)),s},m.prototype.render=function(t,e,r){var n=this.parse(t),o=e instanceof v?e:new v(e);return this.renderTokens(n,o,r,t)},m.prototype.renderTokens=function(t,e,r,n){for(var o,i,s,u="",a=0,c=t.length;a<c;++a)s=void 0,"#"===(i=(o=t[a])[0])?s=this.renderSection(o,e,r,n):"^"===i?s=this.renderInverted(o,e,r,n):">"===i?s=this.renderPartial(o,e,r,n):"&"===i?s=this.unescapedValue(o,e):"name"===i?s=this.escapedValue(o,e):"text"===i&&(s=this.rawValue(o)),void 0!==s&&(u+=s);return u},m.prototype.renderSection=function(t,e,o,i){var s=this,u="",a=e.lookup(t[1]);if(a){if(r(a))for(var c=0,f=a.length;c<f;++c)u+=this.renderTokens(t[4],e.push(a[c]),o,i);else if("object"==typeof a||"string"==typeof a||"number"==typeof a)u+=this.renderTokens(t[4],e.push(a),o,i);else if(n(a)){if("string"!=typeof i)throw new Error("Cannot use higher-order sections without the original template");null!=(a=a.call(e.view,i.slice(t[3],t[5]),function(t){return s.render(t,e,o)}))&&(u+=a)}else u+=this.renderTokens(t[4],e,o,i);return u}},m.prototype.renderInverted=function(t,e,n,o){var i=e.lookup(t[1]);if(!i||r(i)&&0===i.length)return this.renderTokens(t[4],e,n,o)},m.prototype.renderPartial=function(t,e,r){if(r){var o=n(r)?r(t[1]):r[t[1]];return null!=o?this.renderTokens(this.parse(o),e,r,o):void 0}},m.prototype.unescapedValue=function(t,e){var r=e.lookup(t[1]);if(null!=r)return r},m.prototype.escapedValue=function(e,r){var n=r.lookup(e[1]);if(null!=n)return t.escape(n)},m.prototype.rawValue=function(t){return t[1]},t.name="mustache.js",t.version="2.3.2",t.tags=["{{","}}"];var w=new m;return t.clearCache=function(){return w.clearCache()},t.parse=function(t,e){return w.parse(t,e)},t.render=function(t,e,n){if("string"!=typeof t)throw new TypeError('Invalid template! Template should be a "string" but "'+function(t){return r(t)?"array":typeof t}(t)+'" was given as the first argument for mustache#render(template, view, partials)');return w.render(t,e,n)},t.to_html=function(e,r,o,i){var s=t.render(e,r,o);if(!n(i))return s;i(s)},t.escape=function(t){return String(t).replace(/[&<>"'`=\/]/g,function(t){return c[t]})},t.Scanner=y,t.Context=v,t.Writer=m,t})},function(t,e){t.exports=function(t,e){var r={posts:[]};if(!t)throw Error("ccWp: Wordpress data must be provided for parsing");if(Array.isArray(t)&&0===t.length)throw Error("ccWp: data from the server is empty array; something is wrong");for(var n=0,o=0;o<t.length;o++){var i=t[o],s={};if(i.title&&""!==i.title.rendered&&i.excerpt&&""!==i.excerpt.rendered&&i.link&&""!==i.link){s.date=i.date,s.title=i.title.rendered,s.excerpt=i.excerpt.rendered,s.link=i.link,s.mediumImage="";try{s.mediumImage=i._embedded["wp:featuredmedia"][0].media_details.sizes.medium.source_url}catch(t){}if(r.posts.push(s),++n>=e)break}}return r}}]);
+//# sourceMappingURL=ccWpBundle.js.map;
+                </script>
+<script>
+                    var configuration = {
+                    target: '55ace0c7e16b4ba18af76fa6d9df9f5a',
+                        skipNewsroom: true,
+                        skipConsultQd: true,
+                        skipHealthEssentials: false,
+                        newsroomCategories: '',
+                        consultQdCategories: '',
+                        tags: "",
+                        providers:[],
+                        instDepts:[279],
+                        healthEssentialsCategories: [''],
+                        apis: {
+                        healthEssentials: 'https://health.clevelandclinic.org',
+                            consultQD: 'https://consultqd.clevelandclinic.org',
+                            newsroom: 'https://newsroom.clevelandclinic.org'
+                        }
+                    };
+
+                         configuration.testTemplate = document.getElementById("news-template55ace0c7e16b4ba18af76fa6d9df9f5a").innerHTML;
+
+                $(document).ready(function() {
+                    window.newsPanelController(configuration);
+                });
+            </script>
+<script>
+            function leaderBoard(){var e=parseInt($(".js-ad__leaderboard").eq(0).offset().top),a=$(window).scrollTop(),d=0,o=null;function n(){d>0?d--:clearInterval(o)}function r(e=!1){$(".js-ad__leaderboard").hasClass("sticky-top")||($(".js-ad__leaderboard").addClass("sticky-top"),d=0,e?l():$("#leaderboard_728x90").on("DOMNodeInserted","iframe",(function(){$("#leaderboard_728x90 iframe").on("load",(function(){l()}))})))}function l(){setTimeout((function(){$(".js-ad__leaderboard").removeClass("sticky-top")}),2e3)}a>e&&r(),$("#leaderboard_728x90").on("DOMNodeInserted","iframe",(function(){$("#leaderboard_728x90 iframe").on("load",(function(){$(".js-ad__leaderboard").eq(0).addClass("ad-loaded"),(a=$(window).scrollTop())>e?r(!0):(d=20,o=setInterval(n,100))}))})),$("#leaderboard2_728x90").on("DOMNodeInserted","iframe",(function(){$("#leaderboard2_728x90 iframe").on("load",(function(){$(".js-ad__leaderboard").eq(1).addClass("ad-loaded")}))})),$(window).on("scroll",(function(){a=$(this).scrollTop(),d>0&&a>e&&r(!0)}))}document.addEventListener("DOMContentLoaded",(function(){leaderBoard()}));;
+        </script>
+<script src="/assets/scripts/dist/page-scripts.js"></script>
+<script src="/Assets/scripts/dist/health-library-scripts.js"></script>
+<script crossorigin="anonymous" data-cf-beacon='{"rayId":"7b78ed1df8e4c38a","version":"2023.3.0","b":1,"token":"a5dd86740842424582cb4c460172d4c9","si":100}' defer="" integrity="sha512-D/jdE0CypeVxFadTejKGTzmwyV10c1pxZk/AqjJuZbaJwGMyNHY3q/mTPWqMUnFACfCTunhZUVcd4cV78dK1pQ==" src="https://static.cloudflareinsights.com/beacon.min.js/v2b4487d741ca48dcbadcaf954e159fc61680799950996"></script>
+</body>
+</html>
+
+======================
+[<p><strong>Coming to a Cleveland Clinic location?</strong><br/><a href="/locations/construction-alerts#hillcrest">Hillcrest Cancer Center check-in changes</a><br/><a href="/locations/construction-alerts#cole-eye">Cole Eye entrance closing</a><br/><a href="/landing/preparing-for-coronavirus">Visitation, mask requirements and COVID-19 information</a></p>, <p><strong>Notice of Intelligent Business Solutions data event</strong><br/><a href="https://thesolutions.com/notice-of-data-event/" target="_blank">Learn more</a></p>, <p>Your heart chambers are four hollow spaces within your <a href="https://my.clevelandclinic.org/health/body/21704-heart" target="_blank">heart</a>. There are two atria (upper chambers) called your right atrium and left atrium. In addition, there are two ventricles (lower chambers) called your right ventricle and left ventricle. Each chamber plays an important role in your heart’s functioning.</p>, <p>Your heart chambers manage your <a href="https://my.clevelandclinic.org/health/articles/17064-heart-beat" target="_blank">heartbeat</a> and <a href="https://my.clevelandclinic.org/health/articles/17059-how-does-blood-flow-through-your-body" target="_blank">blood flow throughout your body</a>. We all know what our heartbeat feels like even if usually we don’t notice it. When we’re scared or excited, it’s probably more apparent.</p>, <p>But with each beat, a complex process occurs inside your heart chambers. Your chambers keep your blood moving throughout your veins and arteries. They also make sure your blood receives the oxygen it needs to support your organs.</p>, <p>You can think of your heart as one big team. The chambers work with each other and other parts of your heart — like your <a href="https://my.clevelandclinic.org/health/articles/17067-heart-valves" target="_blank">valves</a> and arteries — to keep your heart pumping. But even the best team is only as strong as its players. Each player brings unique skills to support a shared goal. Your heart’s chambers are the MVPs of the team. They do vital work that allows your heart to refresh and recirculate blood throughout your body every minute of every day.</p>, <p>Your right atrium kicks off the action by taking in all the oxygen-poor (deoxygenated) blood from your body. Blood enters through two large veins called your superior vena cava and your inferior vena cava. Your right atrium takes this blood and passes it on to the next player, your right ventricle.</p>, <p>Blood from your right atrium passes through your <a href="https://my.clevelandclinic.org/health/body/21851-tricuspid-valve" target="_blank">tricuspid valve</a> and into your right ventricle. Your right ventricle quickly goes into action by forcefully pumping this blood through your pulmonary valve into your <a href="https://my.clevelandclinic.org/health/articles/21486-pulmonary-arterie" target="_blank">pulmonary arteries</a> and out to your <a href="https://my.clevelandclinic.org/health/articles/8960-lungs-how-they-work" target="_blank">lungs</a>. In your lungs, your blood receives the oxygen it needs to nourish the rest of your body. Then, replenished and ready to continue its journey, the blood travels through your pulmonary veins back to your left atrium.</p>, <p>Once in your left atrium, the oxygen-rich (oxygenated) blood is almost ready to travel around your body. You can think of both atria (the plural form of “atrium”) as reservoirs. While your right atrium holds oxygen-poor blood, your left atrium holds oxygen-rich blood. Your left atrium then sends this blood through your mitral valve and into your left ventricle.</p>, <p>This is the last stop within the four chambers of your heart. Your left ventricle actively pumps the blood through your aortic valve so it can travel throughout your body. Incredibly, this process repeats with every heartbeat. So, you can think of your left ventricle as the final player that scores the winning basket or decisive goal. But there’s only a second to rest before the game begins all over again.</p>, <p>Your heart is located under your ribcage just left of your breastbone and between your lungs. The chambers within your heart are arranged in a particular way to allow blood to flow throughout your body. To remember that your atria are the “upper chambers,” you can think of them as “above” your ventricles. Both atria and above begin with “a.”</p>, <p>While we often talk about the chambers as “upper” or “lower,” you’ll also hear “right” and “left” used to describe each chamber location. That’s because your heart acts as two pumps — a right pump and a left pump — to keep the blood moving. Teamwork, again, is key. Your right atrium and right ventricle work as a team. Likewise, your left atrium and left ventricle are also a team. These chamber pairs work with all the other parts of your heart to keep your blood flowing efficiently.</p>, <p>Your heart chambers are hollow fibrous shells covered in muscle fibers. Your chambers’ walls are made of muscles that allow your heart to contract and form a heartbeat. The right and left sides of your heart are separated by a wall of tissue called your septum.</p>, <p>We can’t fully understand the structure of our heart chambers without also learning about the valves. We can think of the valves as doors that open and close to allow blood to move from chamber to chamber. They also let blood into and out of your heart. The four heart chambers and four valves work together to separate the oxygen-rich blood from the oxygen-poor blood. When healthy, the structure of your chambers and valves allows blood to flow in the right direction. The normal cycle of blood flow moves like this: body - heart - lungs - heart - body.</p>, <p>The chambers and valves perform a delicate dance to keep this cycle going. They are structured in the following way:</p>, <p>Together, your chambers and valves repeat this cycle to create each heartbeat.</p>, <p>Sometimes, your heart’s teamwork gets disrupted. Some disruptions begin before we’re born and cause <a href="https://my.clevelandclinic.org/health/diseases/21674-congenital-heart-disease" target="_blank">congenital heart disease</a>. Other problems arise throughout our lives, especially as we get older. Because your chambers are so important to your heart’s structure, many heart conditions and disorders involve them. The list below reviews some problems that we might face.</p>, <p>An <a href="https://my.clevelandclinic.org/health/diseases/16749-arrhythmia" target="_blank">arrhythmia</a> is an irregular or abnormal heartbeat caused by a problem with your heart’s electrical system. While there are many different types of arrhythmias, it’s helpful to know the two that directly relate to your heart chambers.</p>, <p>Sometimes, a valve becomes damaged or diseased and can’t work properly. While some people are born with valve issues, this problem is more common in older adults. Below are some examples of valve diseases that can affect your heart chambers.</p>, <p>If bacteria enter your bloodstream and move to your heart, you can get a serious infection called <a href="https://my.clevelandclinic.org/health/diseases/16957-endocarditis" target="_blank">endocarditis</a>. In endocarditis, the inside lining of your heart chambers and valves gets inflamed. Symptoms include fever, chills and sweating, especially at night. You may also notice fatigue, weakness, and muscle and joint pain. It’s important to seek medical attention right away and get antibiotics before the infection gets worse. Untreated endocarditis can cause permanent heart damage or death.</p>, <p>These are rare congenital disorders that can affect one of your ventricles. Your ventricle may be smaller, underdeveloped or missing a valve. Here are a few examples.</p>, <p>Problems with your heart chambers or any part of your heart are often easy to miss. You might not have symptoms or notice anything is wrong until the problem has gotten worse. Heart disease is called a “silent killer” because it can sneak up on you. That’s why it’s important to go for physical exams and talk with your healthcare provider about your family history. If your parents or grandparents had heart problems, there’s a greater chance you might develop some too.</p>, <p>There are many ways to check the health of your heart. First, your provider will listen to your <a href="https://my.clevelandclinic.org/health/diagnostics/17402-pulse--heart-rate" target="_blank">heartbeat</a> with a stethoscope. This is a common way to find <a href="https://my.clevelandclinic.org/health/diseases/17083-heart-murmur" target="_blank">murmurs</a> and valve problems. Then, if you have a family history of heart disease or have symptoms, your doctor may perform an <a href="https://my.clevelandclinic.org/health/diagnostics/16953-electrocardiogram-ekg" target="_blank">electrocardiogram (EKG)</a>. Your doctor might also want you to get an <a href="https://my.clevelandclinic.org/health/diagnostics/16947-echocardiogram" target="_blank">echocardiogram (echo)</a> to check your heart’s function and look for problems like valve disease.</p>, <p>Depending on what’s wrong, your healthcare provider may first recommend some simple lifestyle changes. For example, consuming less caffeine can reduce some arrhythmia symptoms. In other cases, you may need medication. For instance, if you have atrial fibrillation, you may need medications to control your heart rate or manage underlying <a href="https://my.clevelandclinic.org/health/diseases/8541-thyroid-disease" target="_blank">thyroid disease</a>. If you have heart failure, you might need to take <a href="https://my.clevelandclinic.org/health/treatments/21826-diuretics" target="_blank">diuretics</a> to get rid of extra fluid from your body. Some problems, such as valve disease, may require surgery.</p>, <p>Your provider will know what’s best for your specific situation. That’s why it’s so important to visit your provider regularly and discuss any new symptoms that come up.</p>, <p>Many simple changes can keep your entire heart healthy. For example, following a <a href="https://my.clevelandclinic.org/health/articles/17079-heart-healthy-diet" target="_blank">heart-healthy diet</a> can help you control heart disease risk factors like <a href="https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure" target="_blank">high blood pressure</a> and <a href="https://my.clevelandclinic.org/health/articles/11918-cholesterol-high-cholesterol-diseases" target="_blank">high cholesterol</a>. Adding regular <a href="https://my.clevelandclinic.org/health/articles/16779-aerobic-exercise--heart-health" target="_blank">aerobic exercise</a> into your weekly routine strengthens your heart and has many other benefits. Before starting any exercise plan, be sure to talk with your provider.</p>, <p>Other lifestyle choices like <a href="https://my.clevelandclinic.org/health/articles/17488-smoking" target="_blank">smoking</a> and <a href="https://my.clevelandclinic.org/health/articles/16728-alcohol--your-heart-health" target="_blank">drinking</a> can affect your heart and overall health. You may want to talk with your doctor about these lifestyle factors and decide to make some changes. It’s OK to start small. Even small changes can make a big difference over time.</p>, <p><strong>A note from Cleveland Clinic</strong></p>, <p>Your heart chambers work hard to keep your heart pumping and blood flowing every minute of every day. Hearts with congenital diseases and hearts that develop problems later in life need special care. But even the healthiest hearts deserve our care and attention so they can stay strong. It all starts with a visit to your healthcare provider. </p>, <p>If you have any symptoms of heart problems, it’s essential to call your provider right away. If you have no symptoms and feel fine, it’s still a good idea to schedule a yearly appointment. Many heart problems are easily treatable if caught early. And many risk factors for heart disease like high blood pressure and high cholesterol can start in our 20s or 30s. So it’s never too soon to start thinking about your heart and what you can do to make it healthier.</p>, <p>Last reviewed by a Cleveland Clinic medical professional on 05/20/2022.</p>, <p>
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+<a href="https://health.clevelandclinic.org/advertising" target="_blank">Policy</a>
+</p>, <p>
+Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.
+<a href="https://health.clevelandclinic.org/advertising" target="_blank">Policy</a>
+</p>]
+======================
+['Coming to a Cleveland Clinic location?Hillcrest Cancer Center check-in changesCole Eye entrance closingVisitation, mask requirements and COVID-19 information', 'Notice of Intelligent Business Solutions data eventLearn more', 'Your heart chambers are four hollow spaces within your heart. There are two atria (upper chambers) called your right atrium and left atrium. In addition, there are two ventricles (lower chambers) called your right ventricle and left ventricle. Each chamber plays an important role in your heart’s functioning.', 'Your heart chambers manage your heartbeat and blood flow throughout your body. We all know what our heartbeat feels like even if usually we don’t notice it. When we’re scared or excited, it’s probably more apparent.', 'But with each beat, a complex process occurs inside your heart chambers. Your chambers keep your blood moving throughout your veins and arteries. They also make sure your blood receives the oxygen it needs to support your organs.', 'You can think of your heart as one big team. The chambers work with each other and other parts of your heart — like your valves and arteries — to keep your heart pumping. But even the best team is only as strong as its players. Each player brings unique skills to support a shared goal. Your heart’s chambers are the MVPs of the team. They do vital work that allows your heart to refresh and recirculate blood throughout your body every minute of every day.', 'Your right atrium kicks off the action by taking in all the oxygen-poor (deoxygenated) blood from your body. Blood enters through two large veins called your superior vena cava and your inferior vena cava. Your right atrium takes this blood and passes it on to the next player, your right ventricle.', 'Blood from your right atrium passes through your tricuspid valve and into your right ventricle. Your right ventricle quickly goes into action by forcefully pumping this blood through your pulmonary valve into your pulmonary arteries and out to your lungs. In your lungs, your blood receives the oxygen it needs to nourish the rest of your body. Then, replenished and ready to continue its journey, the blood travels through your pulmonary veins back to your left atrium.', 'Once in your left atrium, the oxygen-rich (oxygenated) blood is almost ready to travel around your body. You can think of both atria (the plural form of “atrium”) as reservoirs. While your right atrium holds oxygen-poor blood, your left atrium holds oxygen-rich blood. Your left atrium then sends this blood through your mitral valve and into your left ventricle.', 'This is the last stop within the four chambers of your heart. Your left ventricle actively pumps the blood through your aortic valve so it can travel throughout your body. Incredibly, this process repeats with every heartbeat. So, you can think of your left ventricle as the final player that scores the winning basket or decisive goal. But there’s only a second to rest before the game begins all over again.', 'Your heart is located under your ribcage just left of your breastbone and between your lungs. The chambers within your heart are arranged in a particular way to allow blood to flow throughout your body. To remember that your atria are the “upper chambers,” you can think of them as “above” your ventricles. Both atria and above begin with “a.”', 'While we often talk about the chambers as “upper” or “lower,” you’ll also hear “right” and “left” used to describe each chamber location. That’s because your heart acts as two pumps — a right pump and a left pump — to keep the blood moving. Teamwork, again, is key. Your right atrium and right ventricle work as a team. Likewise, your left atrium and left ventricle are also a team. These chamber pairs work with all the other parts of your heart to keep your blood flowing efficiently.', 'Your heart chambers are hollow fibrous shells covered in muscle fibers. Your chambers’ walls are made of muscles that allow your heart to contract and form a heartbeat. The right and left sides of your heart are separated by a wall of tissue called your septum.', 'We can’t fully understand the structure of our heart chambers without also learning about the valves. We can think of the valves as doors that open and close to allow blood to move from chamber to chamber. They also let blood into and out of your heart. The four heart chambers and four valves work together to separate the oxygen-rich blood from the oxygen-poor blood. When healthy, the structure of your chambers and valves allows blood to flow in the right direction. The normal cycle of blood flow moves like this: body - heart - lungs - heart - body.', 'The chambers and valves perform a delicate dance to keep this cycle going. They are structured in the following way:', 'Together, your chambers and valves repeat this cycle to create each heartbeat.', 'Sometimes, your heart’s teamwork gets disrupted. Some disruptions begin before we’re born and cause congenital heart disease. Other problems arise throughout our lives, especially as we get older. Because your chambers are so important to your heart’s structure, many heart conditions and disorders involve them. The list below reviews some problems that we might face.', 'An arrhythmia is an irregular or abnormal heartbeat caused by a problem with your heart’s electrical system. While there are many different types of arrhythmias, it’s helpful to know the two that directly relate to your heart chambers.', 'Sometimes, a valve becomes damaged or diseased and can’t work properly. While some people are born with valve issues, this problem is more common in older adults. Below are some examples of valve diseases that can affect your heart chambers.', 'If bacteria enter your bloodstream and move to your heart, you can get a serious infection called endocarditis. In endocarditis, the inside lining of your heart chambers and valves gets inflamed. Symptoms include fever, chills and sweating, especially at night. You may also notice fatigue, weakness, and muscle and joint pain. It’s important to seek medical attention right away and get antibiotics before the infection gets worse. Untreated endocarditis can cause permanent heart damage or death.', 'These are rare congenital disorders that can affect one of your ventricles. Your ventricle may be smaller, underdeveloped or missing a valve. Here are a few examples.', 'Problems with your heart chambers or any part of your heart are often easy to miss. You might not have symptoms or notice anything is wrong until the problem has gotten worse. Heart disease is called a “silent killer” because it can sneak up on you. That’s why it’s important to go for physical exams and talk with your healthcare provider about your family history. If your parents or grandparents had heart problems, there’s a greater chance you might develop some too.', 'There are many ways to check the health of your heart. First, your provider will listen to your heartbeat with a stethoscope. This is a common way to find murmurs and valve problems. Then, if you have a family history of heart disease or have symptoms, your doctor may perform an electrocardiogram (EKG). Your doctor might also want you to get an echocardiogram (echo) to check your heart’s function and look for problems like valve disease.', 'Depending on what’s wrong, your healthcare provider may first recommend some simple lifestyle changes. For example, consuming less caffeine can reduce some arrhythmia symptoms. In other cases, you may need medication. For instance, if you have atrial fibrillation, you may need medications to control your heart rate or manage underlying thyroid disease. If you have heart failure, you might need to take diuretics to get rid of extra fluid from your body. Some problems, such as valve disease, may require surgery.', 'Your provider will know what’s best for your specific situation. That’s why it’s so important to visit your provider regularly and discuss any new symptoms that come up.', 'Many simple changes can keep your entire heart healthy. For example, following a heart-healthy diet can help you control heart disease risk factors like high blood pressure and high cholesterol. Adding regular aerobic exercise into your weekly routine strengthens your heart and has many other benefits. Before starting any exercise plan, be sure to talk with your provider.', 'Other lifestyle choices like smoking and drinking can affect your heart and overall health. You may want to talk with your doctor about these lifestyle factors and decide to make some changes. It’s OK to start small. Even small changes can make a big difference over time.', 'A note from Cleveland Clinic', 'Your heart chambers work hard to keep your heart pumping and blood flowing every minute of every day. Hearts with congenital diseases and hearts that develop problems later in life need special care. But even the healthiest hearts deserve our care and attention so they can stay strong. It all starts with a visit to your healthcare provider. ', 'If you have any symptoms of heart problems, it’s essential to call your provider right away. If you have no symptoms and feel fine, it’s still a good idea to schedule a yearly appointment. Many heart problems are easily treatable if caught early. And many risk factors for heart disease like high blood pressure and high cholesterol can start in our 20s or 30s. So it’s never too soon to start thinking about your heart and what you can do to make it healthier.', 'Last reviewed by a Cleveland Clinic medical professional on 05/20/2022.', '\nCleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.\nPolicy\n', '\nCleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.\nPolicy\n']
+docs:  ['Coming to a Cleveland Clinic location?Hillcrest Cancer Center check-in changesCole Eye entrance closingVisitation, mask requirements and COVID-19 information', 'Notice of Intelligent Business Solutions data eventLearn more', 'Your heart chambers are four hollow spaces within your heart. There are two atria (upper chambers) called your right atrium and left atrium. In addition, there are two ventricles (lower chambers) called your right ventricle and left ventricle. Each chamber plays an important role in your heart’s functioning.', 'Your heart chambers manage your heartbeat and blood flow throughout your body. We all know what our heartbeat feels like even if usually we don’t notice it. When we’re scared or excited, it’s probably more apparent.', 'But with each beat, a complex process occurs inside your heart chambers. Your chambers keep your blood moving throughout your veins and arteries. They also make sure your blood receives the oxygen it needs to support your organs.', 'You can think of your heart as one big team. The chambers work with each other and other parts of your heart — like your valves and arteries — to keep your heart pumping. But even the best team is only as strong as its players. Each player brings unique skills to support a shared goal. Your heart’s chambers are the MVPs of the team. They do vital work that allows your heart to refresh and recirculate blood throughout your body every minute of every day.', 'Your right atrium kicks off the action by taking in all the oxygen-poor (deoxygenated) blood from your body. Blood enters through two large veins called your superior vena cava and your inferior vena cava. Your right atrium takes this blood and passes it on to the next player, your right ventricle.', 'Blood from your right atrium passes through your tricuspid valve and into your right ventricle. Your right ventricle quickly goes into action by forcefully pumping this blood through your pulmonary valve into your pulmonary arteries and out to your lungs. In your lungs, your blood receives the oxygen it needs to nourish the rest of your body. Then, replenished and ready to continue its journey, the blood travels through your pulmonary veins back to your left atrium.', 'Once in your left atrium, the oxygen-rich (oxygenated) blood is almost ready to travel around your body. You can think of both atria (the plural form of “atrium”) as reservoirs. While your right atrium holds oxygen-poor blood, your left atrium holds oxygen-rich blood. Your left atrium then sends this blood through your mitral valve and into your left ventricle.', 'This is the last stop within the four chambers of your heart. Your left ventricle actively pumps the blood through your aortic valve so it can travel throughout your body. Incredibly, this process repeats with every heartbeat. So, you can think of your left ventricle as the final player that scores the winning basket or decisive goal. But there’s only a second to rest before the game begins all over again.', 'Your heart is located under your ribcage just left of your breastbone and between your lungs. The chambers within your heart are arranged in a particular way to allow blood to flow throughout your body. To remember that your atria are the “upper chambers,” you can think of them as “above” your ventricles. Both atria and above begin with “a.”', 'While we often talk about the chambers as “upper” or “lower,” you’ll also hear “right” and “left” used to describe each chamber location. That’s because your heart acts as two pumps — a right pump and a left pump — to keep the blood moving. Teamwork, again, is key. Your right atrium and right ventricle work as a team. Likewise, your left atrium and left ventricle are also a team. These chamber pairs work with all the other parts of your heart to keep your blood flowing efficiently.', 'Your heart chambers are hollow fibrous shells covered in muscle fibers. Your chambers’ walls are made of muscles that allow your heart to contract and form a heartbeat. The right and left sides of your heart are separated by a wall of tissue called your septum.', 'We can’t fully understand the structure of our heart chambers without also learning about the valves. We can think of the valves as doors that open and close to allow blood to move from chamber to chamber. They also let blood into and out of your heart. The four heart chambers and four valves work together to separate the oxygen-rich blood from the oxygen-poor blood. When healthy, the structure of your chambers and valves allows blood to flow in the right direction. The normal cycle of blood flow moves like this: body - heart - lungs - heart - body.', 'The chambers and valves perform a delicate dance to keep this cycle going. They are structured in the following way:', 'Together, your chambers and valves repeat this cycle to create each heartbeat.', 'Sometimes, your heart’s teamwork gets disrupted. Some disruptions begin before we’re born and cause congenital heart disease. Other problems arise throughout our lives, especially as we get older. Because your chambers are so important to your heart’s structure, many heart conditions and disorders involve them. The list below reviews some problems that we might face.', 'An arrhythmia is an irregular or abnormal heartbeat caused by a problem with your heart’s electrical system. While there are many different types of arrhythmias, it’s helpful to know the two that directly relate to your heart chambers.', 'Sometimes, a valve becomes damaged or diseased and can’t work properly. While some people are born with valve issues, this problem is more common in older adults. Below are some examples of valve diseases that can affect your heart chambers.', 'If bacteria enter your bloodstream and move to your heart, you can get a serious infection called endocarditis. In endocarditis, the inside lining of your heart chambers and valves gets inflamed. Symptoms include fever, chills and sweating, especially at night. You may also notice fatigue, weakness, and muscle and joint pain. It’s important to seek medical attention right away and get antibiotics before the infection gets worse. Untreated endocarditis can cause permanent heart damage or death.', 'These are rare congenital disorders that can affect one of your ventricles. Your ventricle may be smaller, underdeveloped or missing a valve. Here are a few examples.', 'Problems with your heart chambers or any part of your heart are often easy to miss. You might not have symptoms or notice anything is wrong until the problem has gotten worse. Heart disease is called a “silent killer” because it can sneak up on you. That’s why it’s important to go for physical exams and talk with your healthcare provider about your family history. If your parents or grandparents had heart problems, there’s a greater chance you might develop some too.', 'There are many ways to check the health of your heart. First, your provider will listen to your heartbeat with a stethoscope. This is a common way to find murmurs and valve problems. Then, if you have a family history of heart disease or have symptoms, your doctor may perform an electrocardiogram (EKG). Your doctor might also want you to get an echocardiogram (echo) to check your heart’s function and look for problems like valve disease.', 'Depending on what’s wrong, your healthcare provider may first recommend some simple lifestyle changes. For example, consuming less caffeine can reduce some arrhythmia symptoms. In other cases, you may need medication. For instance, if you have atrial fibrillation, you may need medications to control your heart rate or manage underlying thyroid disease. If you have heart failure, you might need to take diuretics to get rid of extra fluid from your body. Some problems, such as valve disease, may require surgery.', 'Your provider will know what’s best for your specific situation. That’s why it’s so important to visit your provider regularly and discuss any new symptoms that come up.', 'Many simple changes can keep your entire heart healthy. For example, following a heart-healthy diet can help you control heart disease risk factors like high blood pressure and high cholesterol. Adding regular aerobic exercise into your weekly routine strengthens your heart and has many other benefits. Before starting any exercise plan, be sure to talk with your provider.', 'Other lifestyle choices like smoking and drinking can affect your heart and overall health. You may want to talk with your doctor about these lifestyle factors and decide to make some changes. It’s OK to start small. Even small changes can make a big difference over time.', 'A note from Cleveland Clinic', 'Your heart chambers work hard to keep your heart pumping and blood flowing every minute of every day. Hearts with congenital diseases and hearts that develop problems later in life need special care. But even the healthiest hearts deserve our care and attention so they can stay strong. It all starts with a visit to your healthcare provider. ', 'If you have any symptoms of heart problems, it’s essential to call your provider right away. If you have no symptoms and feel fine, it’s still a good idea to schedule a yearly appointment. Many heart problems are easily treatable if caught early. And many risk factors for heart disease like high blood pressure and high cholesterol can start in our 20s or 30s. So it’s never too soon to start thinking about your heart and what you can do to make it healthier.', 'Last reviewed by a Cleveland Clinic medical professional on 05/20/2022.', '\nCleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.\nPolicy\n', '\nCleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services.\nPolicy\n']
+scores:  [0.4379208406297739, 0.0, 3.271922440576204, 1.6136824166350716, 6.292968387973125, 3.940113692787445, 2.9698826143539963, 5.261154834823925, 3.777062820694686, 3.6511309393000992, 3.9681153370793876, 6.729248229359, 1.9014094269698483, 6.9253201421402135, 1.6470712985878102, 0.4886497137874134, 1.8221636686704088, 3.2728426315480377, 1.764371720915569, 1.949395989219348, 0.0, 3.02033066576161, 2.76370474816504, 1.0545982231253062, 0.3967341281515907, 2.045636544778066, 1.0634081385461245, 0.0, 2.6032103749179996, 2.0386616067279126, 0.0, 1.384948512426957, 1.384948512426957]
+['We can’t fully understand the structure of our heart chambers without also learning about the valves. We can think of the valves as doors that open and close to allow blood to move from chamber to chamber. They also let blood into and out of your heart. The four heart chambers and four valves work together to separate the oxygen-rich blood from the oxygen-poor blood. When healthy, the structure of your chambers and valves allows blood to flow in the right direction. The normal cycle of blood flow moves like this: body - heart - lungs - heart - body.While we often talk about the chambers as “upper” or “lower,” you’ll also hear “right” and “left” used to describe each chamber location. That’s because your heart acts as two pumps — a right pump and a left pump — to keep the blood moving. Teamwork, again, is key. Your right atrium and right ventricle work as a team. Likewise, your left atrium and left ventricle are also a team. These chamber pairs work with all the other parts of your heart to keep your blood flowing efficiently.But with each beat, a complex process occurs inside your heart chambers. Your chambers keep your blood moving throughout your veins and arteries. They also make sure your blood receives the oxygen it needs to support your organs.Blood from your right atrium passes through your tricuspid valve and into your right ventricle. Your right ventricle quickly goes into action by forcefully pumping this blood through your pulmonary valve into your pulmonary arteries and out to your lungs. In your lungs, your blood receives the oxygen it needs to nourish the rest of your body. Then, replenished and ready to continue its journey, the blood travels through your pulmonary veins back to your left atrium.Your heart is located under your ribcage just left of your breastbone and between your lungs. The chambers within your heart are arranged in a particular way to allow blood to flow throughout your body. To remember that your atria are the “upper chambers,” you can think of them as “above” your ventricles. Both atria and above begin with “a.”You can think of your heart as one big team. The chambers work with each other and other parts of your heart — like your valves and arteries — to keep your heart pumping. But even the best team is only as strong as its players. Each player brings unique skills to support a shared goal. Your heart’s chambers are the MVPs of the team. They do vital work that allows your heart to refresh and recirculate blood throughout your body every minute of every day.Once in your left atrium, the oxygen-rich (oxygenated) blood is almost ready to travel around your body. You can think of both atria (the plural form of “atrium”) as reservoirs. While your right atrium holds oxygen-poor blood, your left atrium holds oxygen-rich blood. Your left atrium then sends this blood through your mitral valve and into your left ventricle.This is the last stop within the four chambers of your heart. Your left ventricle actively pumps the blood through your aortic valve so it can travel throughout your body. Incredibly, this process repeats with every heartbeat. So, you can think of your left ventricle as the final player that scores the winning basket or decisive goal. But there’s only a second to rest before the game begins all over again.An arrhythmia is an irregular or abnormal heartbeat caused by a problem with your heart’s electrical system. While there are many different types of arrhythmias, it’s helpful to know the two that directly relate to your heart chambers.Your heart chambers are four hollow spaces within your heart. There are two atria (upper chambers) called your right atrium and left atrium. In addition, there are two ventricles (lower chambers) called your right ventricle and left ventricle. Each chamber plays an important role in your heart’s functioning.Problems with your heart chambers or any part of your heart are often easy to miss. You might not have symptoms or notice anything is wrong until the problem has gotten worse. Heart disease is called a “silent killer” because it can sneak up on you. That’s why it’s important to go for physical exams and talk with your healthcare provider about your family history. If your parents or grandparents had heart problems, there’s a greater chance you might develop some too.Your right atrium kicks off the action by taking in all the oxygen-poor (deoxygenated) blood from your body. Blood enters through two large veins called your superior vena cava and your inferior vena cava. Your right atrium takes this blood and passes it on to the next player, your right ventricle.There are many ways to check the health of your heart. First, your provider will listen to your heartbeat with a stethoscope. This is a common way to find murmurs and valve problems. Then, if you have a family history of heart disease or have symptoms, your doctor may perform an electrocardiogram (EKG). Your doctor might also want you to get an echocardiogram (echo) to check your heart’s function and look for problems like valve disease.Your heart chambers work hard to keep your heart pumping and blood flowing every minute of every day. Hearts with congenital diseases and hearts that develop problems later in life need special care. But even the healthiest hearts deserve our care and attention so they can stay strong. It all starts with a visit to your healthcare provider. Many simple changes can keep your entire heart healthy. For example, following a heart-healthy diet can help you control heart disease risk factors like high blood pressure and high cholesterol. Adding regular aerobic exercise into your weekly routine strengthens your heart and has many other benefits. Before starting any exercise plan, be sure to talk with your provider.']
