@@ -1,0 +1,81 @@
+tokenizer:
+  model_name: t5-large
+  padding_side: left
+  truncation_side: left
+  pad_token_as_eos_token: False
+
+reward_fn:
+  id: "mmlu"
+  args:
+    pid: 5
+    # think: True
+    # max_obs: None
+    searchfunc: 'plainfilter'
+    # topn: 10
+    # max_words_perdoc: 800
+    black: /xinbei_data/replug/generate/mmlu/data/possibly_contaminated_urls.txt
+  # args:
+  #   language: en
+
+datapool:
+  id: other
+  args:
+    prompt_prefix: "rewrite a better search query: "
+    # ifdebug: True
+
+
+env:
+  n_envs: 1
+  args:
+    max_prompt_length: 512
+    max_episode_length: 50
+    terminate_on_eos: True
+    prompt_truncation_side: "right"
+    context_start_token: 0
+
+alg:
+  id: ppo
+  args: 
+    n_steps: 5120
+    batch_size: 12
+    verbose: 1
+    learning_rate: 0.000002
+    n_epochs: 2
+    ent_coef: 0.0
+    device: 'leftone'
+  kl_div:
+    coeff: 0.001
+    target_kl: 0.2
+  policy:
+    id: seq2seq_lm_actor_critic_policy
+    args:
+      model_name: /xinbei_data/replug/baseline/experiments/0610/t5l-mmluother_0610/
+      apply_model_parallel: True
+      prompt_truncation_side: "right"
+      generation_kwargs:
+        min_length: 1
+        max_length: 50
+        num_return_sequences: 1
+        num_beams: 4          
+        # do_sample: True
+        # top_k: 100
+train_evaluation:
+  eval_batch_size: 2
+  n_iters: 50
+  eval_every: 1
+  save_every: 1
+  metrics:
+    - id: mmlu
+      args: 
+        pid: 5
+        # think: True
+        searchfunc: 'plainfilter'
+        # topn: 10
+        # max_words_perdoc: 800
+        black: /xinbei_data/replug/generate/mmlu/data/possibly_contaminated_urls.txt
+  generation_kwargs: 
+    min_length: 1
+    max_length: 50
+    num_return_sequences: 1
+    num_beams: 4
+

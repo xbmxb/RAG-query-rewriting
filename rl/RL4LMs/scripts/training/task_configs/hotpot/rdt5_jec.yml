@@ -1,0 +1,91 @@
+tokenizer:
+  model_name: /xinbei_data/replug/baseline_new/transformers/examples/legacy/seq2seq/experiments0514/randeng-jeckb-0505-4gpu/
+  padding_side: left
+  truncation_side: left
+  pad_token_as_eos_token: False
+
+reward_fn:
+  id: llm
+  args:
+    pid: 2
+    # think: True
+    # max_obs: None
+    weight_f1: 0
+
+datapool:
+  id: 'jec'
+  args:
+    # prompt_prefix: "rewrite a better search query: "
+    ifdebug: False
+
+
+env:
+  n_envs: 8
+  args:
+    max_prompt_length: 1024
+    max_episode_length: 50
+    terminate_on_eos: True
+    prompt_truncation_side: "right"
+    context_start_token: 0
+
+alg:
+  id: ppo
+  args: 
+    n_steps: 640
+    batch_size: 8
+    verbose: 1
+    learning_rate: 0.000002
+    n_epochs: 2
+    ent_coef: 0.0
+  kl_div:
+    coeff: 0.001
+    target_kl: 0.2
+  policy:
+    id: seq2seq_lm_actor_critic_policy
+    args:
+      model_name: /xinbei_data/replug/baseline_new/transformers/examples/legacy/seq2seq/experiments0514/randeng-jeckb-0505-4gpu/checkpoint-2000/
+      apply_model_parallel: True
+      prompt_truncation_side: "right"
+      generation_kwargs:
+        min_length: 1
+        max_length: 50
+        num_return_sequences: 1
+        num_beams: 4          
+        # do_sample: True
+        # top_k: 100
+train_evaluation:
+  eval_batch_size: 8
+  n_iters: 50
+  eval_every: 1
+  save_every: 1
+  metrics:
+    - id: llm
+      args: 
+        pid: 2
+        # think: True
+
+    # - id: rouge
+    # - id: bleu
+    #   args: {}
+    # - id: bert_score
+    #   args:
+    #     language: en
+    # - id: bleurt
+    #   args:
+    #     config_name: bleurt-large-512
+    # - id: diversity
+    #   args: {}
+    # - id: summaCZS
+    #   args:
+    #     granularity: sentence
+    #     use_ent: True
+    #     use_con: False
+    # - id: summaCConv
+    #   args:
+    #     granularity: sentence
+  generation_kwargs: 
+    min_length: 1
+    max_length: 50
+    num_return_sequences: 1
+    num_beams: 4
+

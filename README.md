@@ -8,6 +8,9 @@ Large Language Models (LLMs) play powerful, black-box readers in the retrieve-th
 
 This repo will be improved continually.
 
+- Add prompt lines (*./generate/inprompts*), example results (*.examples*).
+- Add result models (*./result_models*).
+
 ### Acknowledgement
 
 Many thanks to
